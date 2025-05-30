@@ -3,11 +3,10 @@ title: Filebase
 link: https://filebase.com/
 thumbnail: https://filebase.com/icons/icon-512x512.png?v=2e35838fdeaa1938d83ff223848b12f4
 snippet: >-
-  Storing data on decentralized networks can be hard. Filebase removes that
-  complexity. Upload data in seconds using the tools you already know and love.
-tags: ["storage"]
+  在去中心化网络上存储数据可能很困难。Filebase消除了这种复杂性。使用您已经熟悉和喜爱的工具在几秒钟内上传数据。
+tags: ["存储"]
 createdAt: 2022-04-12T00:00:00.000Z
 ---
-5GB free
-No credit card required
-S3-compatible API
+5GB免费
+无需信用卡
+S3兼容API

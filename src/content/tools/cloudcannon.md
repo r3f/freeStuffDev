@@ -4,16 +4,14 @@ title: CloudCannon
 link: https://cloudcannon.com/
 thumbnail: https://cloudcannon.com/assets/cc-emblem-with-text-blue.svg
 snippet: >-
-  CloudCannon is your all-in-one platform for static sites — it’s the best way
-  to sync, build, edit, and host your Jekyll, Hugo, and Eleventy sites for the
-  modern web.
-tags: ["CMS", " SSG"]
+  CloudCannon 是您用于静态网站的一体化平台——它是为现代 Web 同步、构建、编辑和托管 Jekyll、Hugo 和 Eleventy 网站的最佳方式。
+tags: ["CMS", "SSG"]
 ---
-Fully featured CMS
-Unlimited staging sites
-Staging publishing workflows
-Up to 3 team members
-Client sharing
-Pay as you grow
-Two-way syncing to your repository
-Optional CloudCannon hosting
+功能齐全的 CMS
+无限的暂存站点
+暂存发布工作流程
+最多 3 名团队成员
+客户共享
+按需付费
+与您的存储库双向同步
+可选的 CloudCannon 托管

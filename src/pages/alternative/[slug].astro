@@ -28,13 +28,13 @@ const relatedTags = tool.data.tags.map((tag: string) => {
 
 let groupedTools = {} as any
 for(let i = 0; i < relatedTags.length; i++) {
-    // WARNING: Don't lowercase the tag here
+    // 警告：不要在此处将标签小写
     const tag = relatedTags[i].trim()
     const tools = await getCollection('tools', ({ data }) => {
         return data.tags.includes(tag)
     })
 
-    // remove the current tool from the list
+    // 从列表中移除当前工具
     const index = tools.findIndex((t) => t.slug === tool.slug)
     if (index > -1) {
         tools.splice(index, 1)
@@ -48,17 +48,17 @@ for(let i = 0; i < relatedTags.length; i++) {
 }
 
 let tagsInString = relatedTags.join(', ')
-tagsInString = tagsInString.replace(/,([^,]*)$/, ' and$1')
+tagsInString = tagsInString.replace(/,([^,]*)$/, ' 和$1')
 
 const toolTitle = tool.data.title
-const title = `Find free alternative to ${toolTitle} for developers - ${year}`
-const description = `List of free alternative to ${toolTitle} for developers. Find the best alternative to ${tool.data.title} as ${tagsInString} tools for your needs.`
+const title = `为开发者查找 ${toolTitle} 的免费替代品 - ${year} - AAFREE`
+const description = `为开发者提供的 ${toolTitle} 免费替代品列表。根据您的需求，查找 ${tool.data.title} 作为 ${tagsInString} 工具的最佳替代品。`
 ---
 
 <Layout
-	title={title}
-	description={description}
-	>
+    title={title}
+    description={description}
+    >
 
     <Header
         title={title}
@@ -71,7 +71,7 @@ const description = `List of free alternative to ${toolTitle} for developers. Fi
     {Object.keys(groupedTools).map((tag) => {
         return (
             <div>
-                <h3 class="text-xl mb-5 text-sky-200">👉 Alternative to {toolTitle} as {tag} tools/services</h3>
+                <h3 class="text-xl mb-5 text-sky-200">👉 {toolTitle} 作为 {tag} 工具/服务的替代品</h3>
                 <div class="grid grid-cols-1 gap-4">
                     {groupedTools[tag].map((tool: any) => {
                         return (

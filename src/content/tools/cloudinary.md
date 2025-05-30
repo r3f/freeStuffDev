@@ -2,21 +2,19 @@
 title: Cloudinary
 link: https://cloudinary.com/
 snippet: >-
-  Developers and marketers use Cloudinary to quickly and easily create, manage
-  and deliver their digital experiences across any browser, device and
-  bandwidth.
+  开发人员和营销人员使用 Cloudinary 快速轻松地在任何浏览器、设备和带宽上创建、管理和交付其数字体验。
 image: null
 thumbnail: >-
   https://cloudinary-res.cloudinary.com/image/upload/f_auto,q_auto/c_scale,w_128/v1597183771/website/cloudinary_web_favicon.png
-tags: ["storage"]
+tags: ["存储"]
 createdAt: 2021-06-17T01:51:24.525Z
 ---
-Media CDN
-Upload widget, API and search
-Image and video transformations
+媒体 CDN
+上传小部件、API 和搜索
+图像和视频转换
 
-Video transcoding and adaptive streaming
+视频转码和自适应流媒体
 
-25k transformations or
-25 GB of managed storage or
-25 GB of net viewing bandwidth
+25k 次转换或
+25 GB 托管存储或
+25 GB 网络观看带宽

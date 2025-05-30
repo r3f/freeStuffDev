@@ -5,8 +5,8 @@ import Sidebar from './Sidebar.astro'
 
 
 export interface Props {
-    title: string;
-    description: string;
+	title: string;
+	description: string;
 	noIndex?: boolean;
 }
 
@@ -19,14 +19,14 @@ const {
 ---
 
 <!DOCTYPE html>
-<html lang="en">
+<html lang="zh-CN">
 	<head>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<link rel="icon" type="image/svg+xml" href="/favicon.ico" />
 		<meta name="generator" content={Astro.generator} />
 		
-        <title>{title}</title>
+		<title>{title}</title>
 		<meta name="description" content={description} property="og:description">
 
 		{
@@ -44,13 +44,13 @@ const {
 		<meta property="og:image" content="/freestuffdev-logo.webp"  /> 
 
 		<ViewTransitions />
-    </head>
+	</head>
 
 <body>
 	
 	<script is:inline>
 		// =====================
-		// Save features
+		// 保存功能
 		// =====================
 		const FAV_KEY_NAME = "favoritedItems";
 
@@ -70,8 +70,8 @@ const {
 			const uniqueFav = [...new Set(favorites)];
 			setObjectLS(FAV_KEY_NAME, uniqueFav);
 
-			// change text to red
-			event.target.innerText = "Saved!";
+			// 将文本更改为红色
+			event.target.innerText = "已收藏!";
 			event.target.style.color = "#FE4032";
 		}
 
@@ -82,7 +82,7 @@ const {
 			const newFav = favorites.filter(fav => fav !== link);
 			setObjectLS(FAV_KEY_NAME, newFav);
 
-			// Find parent .tools-list add hidden class
+			// 查找父元素 .tools-list 并添加 hidden 类
 			const parent = event.target.closest('.cards');
 			parent.classList.add('hidden');
 		}

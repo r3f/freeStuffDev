@@ -4,13 +4,11 @@ link: https://www.file.io/
 thumbnail: >-
   https://ik.imagekit.io/kodingclub/freestuffdev/stuff/Screen_Shot_2021-07-30_at_4.29.58_PM_xJsLbqz1NzH.png?updatedAt=1627633824687
 snippet: >-
-  Sharing files with file.io is convenient, anonymous and secure. Just upload
-  files and share the links via email, SMS, Slack, Discord, etc. Easy-to-use
-  REST API.
-tags: ["file-sharing"]
+  使用file.io共享文件方便、匿名且安全。只需上传文件并通过电子邮件、短信、Slack、Discord等共享链接。易于使用的REST API。
+tags: ["文件共享"]
 createdAt: 2021-07-30T00:00:00.000Z
 ---
-Manage your files in the file.io web app
-Share files up to 100 MB
-API rate limit: 1 request/minute
-Files auto-deleted after 1 download
+在file.io Web应用程序中管理您的文件
+共享最大100 MB的文件
+API速率限制：1个请求/分钟
+文件下载1次后自动删除

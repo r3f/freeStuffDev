@@ -4,12 +4,10 @@ title: Lemon
 link: https://uselemon.io/
 thumbnail: https://uselemon.io/images/favicon.ico
 snippet: >-
-  AWS is like an airplane cockpit – you have to be an expert to use it. Lemon is
-  more like your phone – intuitive, no manual needed. Fully customisable with
-  Terraform. And its free!
-tags: ["aws", " devops"]
+  AWS 就像一个飞机驾驶舱——你必须是专家才能使用它。Lemon 更像是你的手机——直观，不需要手册。可通过 Terraform 完全自定义。而且是免费的！
+tags: ["aws", "devops"]
 ---
-3 services
-1 environment
-∞ functions
-∞ webapp
+3 项服务
+1 个环境
+无限功能
+无限 webapp

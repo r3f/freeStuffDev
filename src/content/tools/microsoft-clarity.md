@@ -4,7 +4,6 @@ title: Microsoft Clarity
 link: https://clarity.microsoft.com/
 thumbnail: https://clarity.microsoft.com/static/favicon.ico
 snippet: >-
-  Clarity is a free user behavior analytics tool that helps you understand how
-  users are interacting with your website through session replays and heatmaps.
-tags: ["UX", "browser-test"]
+  Clarity 是一款免费的用户行为分析工具，通过会话回放和热力图帮助你了解用户如何与网站互动。
+tags: ["用户体验", "浏览器测试"]
 ---

@@ -4,7 +4,6 @@ title: Unwonted
 link: https://unwonted.io/
 thumbnail: https://unwonted.io/images/icon.png
 snippet: >-
-  Unwonted is an in-browser tool to create generative art. Create rare NFTs
-  using unwonted for free. Its safe and your images never leaves your computer.
-tags: ["NFT", " AI"]
+  Unwonted 是一款浏览器内生成艺术工具。免费创作稀有 NFT，安全且图片不会离开你的电脑。
+tags: ["NFT", "AI"]
 ---

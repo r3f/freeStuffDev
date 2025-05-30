@@ -4,8 +4,6 @@ title: ReqBin
 link: https://reqbin.com/
 thumbnail: https://i.ibb.co/WDPRkyM/Screen-Shot-2021-08-22-at-5-17-47-AM.png
 snippet: >-
-  ReqBin is the worlds most popular online API testing tool for REST, SOAP and
-  HTTP APIs. Test your APIs right from your browser. No coding. No desktop app.
-  See why 850000 of users use ReqBin for testing their APIs online!
-tags: ["API-test"]
+  ReqBin 是全球最流行的在线 API 测试工具，支持 REST、SOAP 和 HTTP API。无需编码，无需桌面应用，直接在浏览器测试 API。超 85 万用户选择 ReqBin 在线测试 API！
+tags: ["API测试"]
 ---

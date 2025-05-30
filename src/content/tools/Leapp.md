@@ -3,9 +3,8 @@ title: Leapp
 link: https://www.leapp.cloud/
 thumbnail: https://www.leapp.cloud/assets/img/Leapp_Icon.png
 snippet: >-
-  Leapp is the App to access your cloud. It handles the management and security
-  of your cloud credentials for you.
-tags: ["AWS", "Azure", "Security"]
+  Leapp 是访问您的云的应用程序。它为您处理云凭据的管理和安全。
+tags: ["AWS", "Azure", "安全"]
 createdAt: 2021-06-21T00:00:00.000Z
 ---
-Open Source
+开源

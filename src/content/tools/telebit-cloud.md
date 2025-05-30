@@ -4,8 +4,6 @@ title: Telebit™ Cloud
 link: https://telebit.cloud/
 thumbnail: https://i.ibb.co/rw2qN5h/Screen-Shot-2021-09-07-at-6-01-39-AM.png
 snippet: >-
-  Break out of localhost. Access your devices from behind firewalls. Securely
-  access your services from anywhere. An easy-to-use secure tunnel for all sorts
-  of wonderful things (kind of like a poor mans VPN).
-tags: ["VPN", " firewall"]
+  打破 localhost 限制，穿透防火墙安全访问设备。随时随地安全访问服务，易用的安全隧道（类似简易 VPN）。
+tags: ["VPN", "防火墙"]
 ---

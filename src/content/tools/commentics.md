@@ -3,12 +3,9 @@ title: Commentics
 link: https://commentics.com
 thumbnail: https://commentics.com/favicon.ico
 snippet: >-
-  Commentics is a free, advanced PHP comment script with many features.
-  Professionally written and with open source code, its main aims are to be
-  integrable, customizable and secure. It is designed to be integrated into
-  existing pages.
-tags: ["comment"]
+  Commentics 是一个免费、高级的 PHP 评论脚本，具有许多功能。专业编写并采用开源代码，其主要目标是可集成、可定制和安全。它旨在集成到现有页面中。
+tags: ["评论"]
 createdAt: 2023-01-20T00:00:00.000Z
 ---
-Display the "Powered By"
-Forum Support
+显示“技术支持”
+论坛支持

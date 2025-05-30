@@ -5,7 +5,6 @@ link: https://www.kryptor.co.uk/
 thumbnail: >-
   https://gblobscdn.gitbook.com/spaces%2F-MQ3mYNSOjNkHuQB7Nyt%2Favatar-1609619403028.png?alt=media
 snippet: >-
-  Kryptor is free and open source file encryption software for Windows, Linux,
-  and macOS.
-tags: ["encryption"]
+  Kryptor 是一款适用于 Windows、Linux 和 macOS 的免费开源文件加密软件。
+tags: ["加密"]
 ---

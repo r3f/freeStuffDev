@@ -2,14 +2,13 @@
 title: Firebase
 link: https://firebase.google.com/
 snippet: >-
-  Firebase helps you build and run successful apps Backed by Google and loved by
-  app development teams - from startups to global enterprises
+  Firebase 帮助您构建和运营成功的应用。由 Google 提供支持，深受从初创公司到全球企业的应用开发团队的喜爱。
+tags: ["数据库", "托管", "动态托管", "静态托管", "存储", "身份验证", "实时"]
 thumbnail: https://i.ibb.co/k6B6j1r/Firebase.png
-tags: ["database", "hosting", "hosting-dynamic", "hosting-static", "storage", "authentication", "real-time"]
 createdAt: 2021-06-17T03:00:55.034Z
 ---
-Authentication 10k/month
-Cloud Firestore (stored data: 1 GiB total)
-Realtime Database (stored data: 1 GB)
-Hosting storage 10 GB
-Cloud storage 5 GB
+身份验证1万次/月
+Cloud Firestore（存储数据：总计1 GiB）
+实时数据库（存储数据：1 GB）
+托管存储10 GB
+云存储5 GB

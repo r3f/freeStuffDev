@@ -4,13 +4,12 @@ title: SlashApi
 link: https://slashapi.com/pricing
 thumbnail: https://slashapi.com/images/logo-64.png
 snippet: >-
-  SlashApi is a web platform to build REST APIs fast without having to write any
-  code yourself, you will gain instantly access to a fully operational API
+  SlashApi 是一个 Web 平台，可用于快速构建 REST API，而无需编写任何代码，您将立即获得一个功能齐全的 API
 tags: ["api"]
 ---
-1,000 API calls /mon
-Limited API Integrations
-7 Days of API Log Retention
-Authorisation out of the box
-Resources with permissions
-Custom Validations
+每月 1,000 次 API 调用
+有限的 API 集成
+7 天 API 日志保留
+开箱即用的授权
+带权限的资源
+自定义验证

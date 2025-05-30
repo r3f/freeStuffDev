@@ -2,10 +2,11 @@
 title: Hugging Face
 link: https://huggingface.co/
 thumbnail: https://pbs.twimg.com/profile_images/1348748676282388482/nr8ZuLBE_400x400.jpg
-snippet: >-
-  We’re on a journey to advance and democratize artificial intelligence through
-  open source and open science.
-tags: ["community", "AI", " machine-learning"]
-createdAt: 2022-11-18T00:00:00.000Z
+snippet: 我们致力于通过开源和开放科学来推进和普及人工智能。
+tags:
+- 社区
+- AI
+- 机器学习
+createdAt: 2022-11-18 00:00:00+00:00
 ---
-Free AI Community
+免费人工智能社区

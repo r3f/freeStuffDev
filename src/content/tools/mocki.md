@@ -3,10 +3,8 @@ title: Mocki
 link: https://mocki.io/
 thumbnail: https://mocki.io/mocki.svg
 snippet: >-
-  Create, run and deploy mock APIs in minutes. Use your mock API to run tests
-  independent of external services, design APIs and remove backend dependencies
-  for your frontend team.
+  几分钟内创建、运行和部署模拟 API。使用你的 mock API 独立于外部服务进行测试，设计 API，并为前端团队消除后端依赖。
 tags: ["mock-api"]
 createdAt: 2022-04-12T00:00:00.000Z
 ---
-No clear limit, but you can easily paste your response and link will be generated
+无明确限制，可轻松粘贴响应并生成链接

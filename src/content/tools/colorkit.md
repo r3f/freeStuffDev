@@ -3,9 +3,8 @@ title: ColorKit
 link: https://colorkit.co/
 thumbnail: https://favicon.colorkit.co/favicon-180.svg
 snippet: >-
-  For artists and designers, bring your designs to life with our collection of
-  online color tools and color palette inspiration.
-tags: ["color-picker", " colors", " design"]
+  对于艺术家和设计师，通过我们收集的在线颜色工具和调色板灵感，让您的设计栩栩如生。
+tags: ["颜色选择器", "颜色", "设计"]
 createdAt: 2022-10-09T00:00:00.000Z
 ---
-Browse thousands of color schemes and generate color palettes for free.
+免费浏览数千种配色方案并生成调色板。

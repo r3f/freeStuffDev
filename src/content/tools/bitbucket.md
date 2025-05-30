@@ -4,13 +4,12 @@ link: https://bitbucket.org/
 thumbnail: >-
   https://wac-cdn.atlassian.com/assets/img/favicons/bitbucket/apple-touch-icon.png
 snippet: >-
-  Collaborate on code with inline comments and pull requests. Manage and share
-  your Git repositories to build and ship software
-tags: ["git-hosting"]
+  通过内联评论和拉取请求协作处理代码。管理和共享您的 Git 存储库以构建和交付软件。
+tags: ["Git托管"]
 createdAt: 2021-06-17T00:00:00.000Z
 ---
-Unlimited private repo
-Up to 5 users
-50 min / mo
-Git Large File Storage 1 GB
-CI/CD
+无限私有仓库
+最多 5 个用户
+50 分钟/月
+Git 大文件存储 1 GB
+持续集成-持续交付

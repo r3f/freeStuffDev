@@ -3,9 +3,8 @@ title: Typesense
 link: https://typesense.org
 thumbnail: https://typesense.org/favicon.png
 snippet: >-
-  Typesense is a fast, typo-tolerant search engine optimized for instant
-  search-as-you-type experiences and each of use.
-tags: ["search"]
+  Typesense 是一款极速、容错的搜索引擎，专为即时搜索体验和易用性优化。
+tags: ["搜索"]
 createdAt: 2021-09-02T00:00:00.000Z
 ---
-Open source, free self hosted
+开源，自托管免费

@@ -3,7 +3,7 @@ createdAt: 2021-10-30T12:25:00.000Z
 title: daisyUI
 link: https://daisyui.com/
 thumbnail: https://daisyui.com/favicon.ico
-snippet: Tailwind CSS Components plugin — daisyUI tailwind component library
+snippet: Tailwind CSS 组件插件 — daisyUI Tailwind 组件库
 tags: ["css"]
 ---
-Free Tailwind CSS Components
+免费 Tailwind CSS 组件

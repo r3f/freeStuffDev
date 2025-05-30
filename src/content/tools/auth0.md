@@ -2,10 +2,9 @@
 title: Auth0
 link: https://auth0.com/
 snippet: >-
-  Auth0 is an easy to implement, adaptable authentication and authorization
-  platform.
+  Auth0 是一个易于实施、适应性强的身份验证和授权平台。
 thumbnail: https://avatars.githubusercontent.com/u/2824157?s=200&v=4
-tags: ["user-management", "authentication"]
+tags: ["用户管理", "认证"]
 createdAt: 2021-06-17T03:07:15.856Z
 ---
-Up to 7,000 active users and unlimited logins
+高达 7,000 个活跃用户和无限登录

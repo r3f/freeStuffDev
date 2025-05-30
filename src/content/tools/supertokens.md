@@ -1,12 +1,11 @@
 ---
 createdAt: 2022-03-30T07:07:00.000Z
-title: SuperTokens, Open Source Authentication
+title: SuperTokens，开源身份验证
 link: https://supertokens.com/
 thumbnail: https://supertokens.com/static/assets/apple-icon.svg
 snippet: >-
-  Add simple email and password sign up functionality to your site or app in 15
-  minutes
-tags: ["authentication"]
+  在 15 分钟内为您的网站或应用添加简单的电子邮件和密码注册功能。
+tags: ["身份验证"]
 ---
-Self hosted: Free forever, unlimited users
-SaaS (hosted by us): Free up to 5K monthly active users
+自托管：永久免费，用户数量不限  
+SaaS（我们托管）：每月活跃用户 5,000 以内免费

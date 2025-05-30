@@ -1,0 +1,118 @@
+<svg width="269" height="155" viewBox="0 0 269 155" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1e3a8a;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#3b82f6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#06b6d4;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="bookGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#ffffff;stop-opacity:0.9" />
+      <stop offset="100%" style="stop-color:#e0f2fe;stop-opacity:0.8" />
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2" result="coloredBlur"/>
+      <feMerge> 
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  
+  <!-- 背景 -->
+  <rect width="269" height="155" fill="url(#bgGradient)" rx="8"/>
+  
+  <!-- 背景码点装饰 -->
+  <text x="200" y="30" font-family="monospace" font-size="40" fill="rgba(255,255,255,0.05)" transform="rotate(15)">{}</text>
+  <text x="220" y="120" font-family="monospace" font-size="30" fill="rgba(255,255,255,0.05)" transform="rotate(-10)">&lt;/&gt;</text>
+  <circle cx="30" cy="130" r="20" fill="rgba(255,255,255,0.03)"/>
+  
+  <!-- 书本图标 -->
+  <g transform="translate(20, 25)">
+    <rect x="0" y="0" width="35" height="45" rx="3" fill="url(#bookGradient)" stroke="rgba(255,255,255,0.3)" stroke-width="1"/>
+    <rect x="3" y="8" width="29" height="2" fill="rgba(59,130,246,0.6)"/>
+    <rect x="3" y="14" width="25" height="2" fill="rgba(59,130,246,0.5)"/>
+    <rect x="3" y="20" width="27" height="2" fill="rgba(59,130,246,0.4)"/>
+    <rect x="3" y="26" width="22" height="2" fill="rgba(59,130,246,0.4)"/>
+    <rect x="3" y="32" width="26" height="2" fill="rgba(59,130,246,0.3)"/>
+    <!-- 书脊线 -->
+    <line x1="8" y1="0" x2="8" y2="45" stroke="rgba(59,130,246,0.3)" stroke-width="1"/>
+  </g>
+  
+  <!-- 搜索图标 -->
+  <g transform="translate(65, 35)">
+    <circle cx="8" cy="8" r="6" fill="none" stroke="rgba(255,255,255,0.8)" stroke-width="2"/>
+    <line x1="12" y1="12" x2="16" y2="16" stroke="rgba(255,255,255,0.8)" stroke-width="2"/>
+  </g>
+  
+  <!-- 主标题 -->
+  <text x="20" y="90" font-family="Arial, sans-serif" font-size="26" font-weight="bold" fill="white" filter="url(#glow)">
+    MaxWiki
+  </text>
+  
+  <!-- 副标题 -->
+  <text x="20" y="112" font-family="Arial, sans-serif" font-size="13" fill="rgba(255,255,255,0.9)">
+    开发者文档浏览器
+  </text>
+  
+  <!-- 特性标签 -->
+  <g transform="translate(20, 125)">
+    <rect x="0" y="0" width="32" height="16" rx="8" fill="rgba(255,255,255,0.2)"/>
+    <text x="16" y="11" font-family="Arial, sans-serif" font-size="9" fill="white" text-anchor="middle">快速</text>
+    
+    <rect x="38" y="0" width="32" height="16" rx="8" fill="rgba(255,255,255,0.2)"/>
+    <text x="54" y="11" font-family="Arial, sans-serif" font-size="9" fill="white" text-anchor="middle">离线</text>
+    
+    <rect x="76" y="0" width="32" height="16" rx="8" fill="rgba(255,255,255,0.2)"/>
+    <text x="92" y="11" font-family="Arial, sans-serif" font-size="9" fill="white" text-anchor="middle">免费</text>
+  </g>
+  
+  <!-- 右侧语言图标组 -->
+  <g transform="translate(165, 30)">
+    <!-- HTML -->
+    <rect x="0" y="0" width="20" height="15" rx="2" fill="rgba(227,79,38,0.8)"/>
+    <text x="10" y="10" font-family="Arial, sans-serif" font-size="8" fill="white" text-anchor="middle" font-weight="bold">H</text>
+    
+    <!-- CSS -->
+    <rect x="25" y="0" width="20" height="15" rx="2" fill="rgba(21,114,182,0.8)"/>
+    <text x="35" y="10" font-family="Arial, sans-serif" font-size="8" fill="white" text-anchor="middle" font-weight="bold">C</text>
+    
+    <!-- JS -->
+    <rect x="50" y="0" width="20" height="15" rx="2" fill="rgba(240,219,79,0.8)"/>
+    <text x="60" y="10" font-family="Arial, sans-serif" font-size="8" fill="black" text-anchor="middle" font-weight="bold">JS</text>
+    
+    <!-- Python -->
+    <rect x="0" y="20" width="20" height="15" rx="2" fill="rgba(53,114,165,0.8)"/>
+    <text x="10" y="30" font-family="Arial, sans-serif" font-size="7" fill="white" text-anchor="middle" font-weight="bold">PY</text>
+    
+    <!-- PHP -->
+    <rect x="25" y="20" width="20" height="15" rx="2" fill="rgba(119,123,180,0.8)"/>
+    <text x="35" y="30" font-family="Arial, sans-serif" font-size="7" fill="white" text-anchor="middle" font-weight="bold">PHP</text>
+    
+    <!-- Go -->
+    <rect x="50" y="20" width="20" height="15" rx="2" fill="rgba(0,173,216,0.8)"/>
+    <text x="60" y="30" font-family="Arial, sans-serif" font-size="8" fill="white" text-anchor="middle" font-weight="bold">Go</text>
+    
+    <!-- Ruby -->
+    <rect x="0" y="40" width="20" height="15" rx="2" fill="rgba(204,52,45,0.8)"/>
+    <text x="10" y="50" font-family="Arial, sans-serif" font-size="7" fill="white" text-anchor="middle" font-weight="bold">RB</text>
+    
+    <!-- C++ -->
+    <rect x="25" y="40" width="20" height="15" rx="2" fill="rgba(0,89,156,0.8)"/>
+    <text x="35" y="50" font-family="Arial, sans-serif" font-size="7" fill="white" text-anchor="middle" font-weight="bold">C++</text>
+    
+    <!-- 更多标识 -->
+    <circle cx="60" cy="47" r="7" fill="rgba(255,255,255,0.3)"/>
+    <text x="60" y="51" font-family="Arial, sans-serif" font-size="10" fill="white" text-anchor="middle" font-weight="bold">+</text>
+  </g>
+  
+  <!-- 100+ 文档标识 -->
+  <g transform="translate(180, 85)">
+    <rect x="0" y="0" width="50" height="25" rx="12" fill="rgba(255,255,255,0.15)" stroke="rgba(255,255,255,0.3)" stroke-width="1"/>
+    <text x="25" y="12" font-family="Arial, sans-serif" font-size="10" fill="white" text-anchor="middle" font-weight="bold">100+</text>
+    <text x="25" y="22" font-family="Arial, sans-serif" font-size="8" fill="rgba(255,255,255,0.8)" text-anchor="middle">文档</text>
+  </g>
+  
+  <!-- 装饰性光效 -->
+  <ellipse cx="120" cy="0" rx="60" ry="20" fill="rgba(255,255,255,0.1)"/>
+  <path d="M0 155 L269 155 L269 135 Q134 125 0 135 Z" fill="rgba(255,255,255,0.05)"/>
+</svg>

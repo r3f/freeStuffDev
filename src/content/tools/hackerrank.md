@@ -1,12 +1,12 @@
 ---
 title: HackerRank
 link: https://www.hackerrank.com/
-thumbnail: >-
-  https://www.hackerrank.com/wp-content/uploads/2020/05/hackerrank_cursor_favicon_480px-300x300.png
-snippet: >-
-  HackerRank is the market-leading technical assessment and remote interview
-  solution for hiring developers.
-tags: ["learning-resources", " preparation", " recruitment"]
-createdAt: 2021-10-15T00:00:00.000Z
+thumbnail: https://www.hackerrank.com/wp-content/uploads/2020/05/hackerrank_cursor_favicon_480px-300x300.png
+snippet: HackerRank 是市场领先的技术评估和远程面试解决方案，用于招聘开发人员。
+tags:
+- 学习资源
+- 准备
+- 招聘
+createdAt: 2021-10-15 00:00:00+00:00
 ---
-There are Free competitive programming challenges in  Java, C++, PHP, Python, SQL, JavaScript, Algos, Data Structures and AI.
+这里有免费的 Java、C++、PHP、Python、SQL、JavaScript、算法、数据结构和人工智能的编程竞赛挑战。

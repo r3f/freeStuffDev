@@ -4,13 +4,12 @@ title: Interval
 link: https://interval.com/
 thumbnail: https://interval.com/img/favicon.png
 snippet: >-
-  Interval supercharges your backend code with UIs, auth, audit logs, and more,
-  leaving more time to focus on writing the code that matters.
-tags: ["internal-tool"]
+  Interval 通过 UI、身份验证、审计日志等功能增强您的后端代码，让您有更多时间专注于编写重要的代码。
+tags: ["内部工具"]
 ---
-Unlimited tools
-Unlimited users
-Full component library
-Dev & live environments
-24-hour audit logs
-Public Discord support
+无限工具
+无限用户
+完整的组件库
+开发和实时环境
+24 小时审计日志
+公共 Discord 支持

@@ -1,10 +1,9 @@
 ---
 createdAt: 2021-10-06T01:02:00.000Z
-title: Online JSON Formatter
+title: 在线 JSON 格式化程序
 link: https://jsonformatter.org/
 thumbnail: https://jsonformatter.org/img/favicon.png
 snippet: >-
-  Online JSON Formatter and JSON Validator will format JSON data, and helps to
-  validate, convert JSON to XML, JSON to CSV. Save and Share JSON
-tags: ["json", "formatter"]
+  在线 JSON 格式化程序和 JSON 验证器将格式化 JSON 数据，并帮助验证、将 JSON 转换为 XML、JSON 转换为 CSV。保存和共享 JSON。
+tags: ["json", "格式化程序"]
 ---

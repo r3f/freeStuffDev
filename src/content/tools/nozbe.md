@@ -4,14 +4,10 @@ title: Nozbe
 link: https://nozbe.com
 thumbnail: https://nozbe.com/images/base/favicon/196x196.png
 snippet: >-
-  Make your business thrive. Manage your team from anywhere, at any time, and on
-  any device. Share projects, delegate tasks, communicate in comments and
-  achieve your goals together. Nozbe Teams stands for modern team communication.
-  It helps us and will help you run your business smoothly. We are glad you are
-  joining us!
-tags: ["productivity", " project-management"]
+  让你的企业蓬勃发展。随时随地、在任何设备上管理团队。项目共享、任务委派、评论沟通、共同达成目标。Nozbe Teams 代表现代团队沟通，助你高效运营。欢迎加入！
+tags: ["效率", "项目管理"]
 ---
-Up to 5 people
-Up to 5 projects
-Unlimited tasks and comments
-Apps for Android, iPad and iPhone
+最多 5 人
+最多 5 个项目
+任务与评论不限
+支持 Android、iPad 和 iPhone 应用

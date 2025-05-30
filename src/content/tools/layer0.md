@@ -4,12 +4,11 @@ title: Layer0
 link: https://www.layer0.co/
 thumbnail: https://pbs.twimg.com/profile_images/1381901268050976774/-YafbmFO_400x400.jpg
 snippet: >-
-  Infrastructure for sub-second dynamic websites. Develop, deploy, preview,
-  experiment on, monitor and run your frontend - Deploy for Free in 1 Minute.
-tags: ["hosting-static", " jamstack"]
+  亚秒级动态网站的基础设施。开发、部署、预览、实验、监控和运行您的前端 - 1 分钟内免费部署。
+tags: ["静态托管", "jamstack"]
 ---
-1 Custom Domain
-3 Environments
-100GB Bandwidth Monthly
-31 Edge Locations
-Real-Time RUM Analytics
+1 个自定义域名
+3 个环境
+每月 100GB 带宽
+31 个边缘位置
+实时 RUM 分析

@@ -3,25 +3,24 @@ title: Evernote
 link: https://evernote.com/
 thumbnail: https://evernote.com/img/logo/evernote/primary.svg
 snippet: >-
-  Accomplish more with better notes. Evernote helps you capture ideas and find
-  them fast.
-tags: ["productivity", " note-taking"]
+  用更好的笔记完成更多工作。Evernote 帮助您捕捉想法并快速找到它们。
+tags: ["生产力", "笔记"]
 createdAt: 2021-06-21T00:00:00.000Z
 ---
-Number of notes: 100,000
-Number of saved templates: 20
-Number of notebooks: 250
-Number of shortcuts: 250
-Number of saved searches: 100
-Number of tags: 100,000
-Number of tags per note: 100
-Number of notebooks shared with you: 100
-Number of people you can share a notebook with: 500
-Number of participants per Work Chat message: 50
-Number of emails sent from an Evernote account per day: 50
-Sync up to 2 devices 
-Find notes fast with search and tags
-Apply rich formatting to your notes
-Clip web pages
-Note size 2: 25MB maximum note size
-60MB monthly upload limit
+笔记数量：100,000
+已保存模板数量：20
+笔记本数量：250
+快捷方式数量：250
+已保存搜索数量：100
+标签数量：100,000
+每个笔记的标签数量：100
+与您共享的笔记本数量：100
+您可以与之共享笔记本的人数：500
+每个工作聊天消息的参与者数量：50
+每天从 Evernote 帐户发送的电子邮件数量：50
+最多同步 2 台设备 
+通过搜索和标签快速查找笔记
+为您的笔记应用丰富的格式
+剪辑网页
+笔记大小 2：最大笔记大小 25MB
+每月上传限制 60MB

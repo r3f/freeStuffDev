@@ -4,8 +4,7 @@ title: SeekLogo
 link: https://seeklogo.com/
 thumbnail: https://seeklogo.com/img/favicon.ico
 snippet: >-
-  seeklogo.com is the worlds best brand logo and vector logo template source.
-  Logos can download in vector format. There are more than 400000 vector logos.
-tags: ["logo", " vector", " image"]
+  seeklogo.com 是全球最佳的品牌徽标和矢量徽标模板来源。徽标可以矢量格式下载。有超过 400000 个矢量徽标。
+tags: ["徽标", "矢量", "图像"]
 ---
-Free brand logos for study case
+免费品牌徽标供案例研究使用

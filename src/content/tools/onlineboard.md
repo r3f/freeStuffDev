@@ -3,16 +3,13 @@ title: Onlineboard
 link: https://onlineboard.eu
 thumbnail: https://onlineboard.eu/img/favicon_v2.png
 snippet: >-
-  Browser based online whiteboard app. Allows you to create a whiteboard where
-  others see everything in real-time as you draw it. Dark mode, no login
-  required, multiple colors, export to PNG.
-tags: ["remote", "productivity", "whiteboard", "blackboard", "multiplayer",
-  "collaboration"]
+  基于浏览器的在线白板应用。可创建白板，实时协作绘制内容。支持深色模式、无需登录、多色选择、导出 PNG。
+tags: ["远程", "效率", "白板", "黑板", "多人协作", "协作"]
 createdAt: 2022-02-12T00:00:00.000Z
 ---
-Dark mode
-Zoomable board
-Up to 32 users
-No signup required
-Export to PNG
-Follow your guests on the whiteboard
+深色模式
+可缩放画板
+最多 32 人同时在线
+无需注册
+导出为 PNG
+可跟随嘉宾视角

@@ -1,10 +1,9 @@
 ---
-title: Public API List
+title: 公共 API 列表
 link: https://github.com/public-apis/public-apis
 thumbnail: https://github.githubassets.com/pinned-octocat.svg
 snippet: >-
-  A collective list of free APIs. Contribute to public-apis/public-apis
-  development by creating an account on GitHub.
-tags: ["api", "awesome-list"]
+  免费 API 的集合列表。通过在 GitHub 上创建账号参与 public-apis/public-apis 项目开发。
+tags: ["API", "精选列表"]
 createdAt: 2021-07-22T00:00:00.000Z
 ---

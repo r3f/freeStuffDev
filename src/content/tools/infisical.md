@@ -2,14 +2,14 @@
 title: Infisical | Open Source SecretOps
 link: https://infisical.com/
 thumbnail: https://infisical.com/infisical.ico
-snippet: >-
-  OPEN SOURCE,END-TO-END ENCRYPTED,EASY-TO-USE, tool that lets you securely sync
-  secrets and configs across your team, devices, and infrastructure
-tags: ["app-configuration", " secrets-manager"]
-createdAt: 2023-01-24T00:00:00.000Z
+snippet: 开源、端到端加密、易于使用的工具，可让您在团队、设备和基础设施之间安全地同步密钥和配置。
+tags:
+- 应用配置
+- 密钥管理器
+createdAt: 2023-01-24 00:00:00+00:00
 ---
-Up to 10 projects
-Up to 5 members
-All Integrations
-End-to-end encryption
-Forum Support
+最多 10 个项目
+最多 5 名成员
+所有集成
+端到端加密
+论坛支持

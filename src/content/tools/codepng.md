@@ -4,7 +4,6 @@ title: CodePNG
 link: https://www.codepng.app
 thumbnail: https://i.ibb.co/N1FWh7Y/codepngcover.png
 snippet: >-
-  Create awesome images from your code! Codepng turns you code into beautiful
-  png images.
-tags: ["code-screenshot"]
+  从您的代码创建精美的图片！Codepng 将您的代码转换为漂亮的 png 图片。
+tags: ["代码截图"]
 ---

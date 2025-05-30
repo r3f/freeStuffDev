@@ -3,10 +3,9 @@ title: Commentbox
 link: https://commentbox.io/
 thumbnail: https://commentbox.io/apple-touch-icon.png
 snippet: >-
-  Hosted commenting thats painless to embed, a pleasure to use, and a breeze to
-  moderate
-tags: ["comment"]
+  托管评论，嵌入轻松，使用愉快，管理便捷
+tags: ["评论"]
 createdAt: 2021-06-17T00:00:00.000Z
 ---
-1GB bandwidth monthly
-100 comments monthly
+每月 1GB 带宽
+每月 100 条评论

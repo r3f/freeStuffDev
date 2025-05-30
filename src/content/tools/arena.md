@@ -4,10 +4,9 @@ link: https://www.are.na/
 thumbnail: >-
   https://d2hp0ptr16qg89.cloudfront.net/assets/127302a/touch-icon-ipad-retina.png
 snippet: >-
-  Are.na is a platform for connecting ideas and building knowledge. Are.na is a
-  place to save content, create collections over time and connect ideas.
-  Privately or with other people.
-tags: ["note-taking"]
+  Are.na 是一个连接想法和构建知识的平台。Are.na 是一个保存内容、随时间创建集合并连接想法的地方。
+  可以私下进行，也可以与其他人一起进行。
+tags: ["笔记"]
 createdAt: 2022-03-05T00:00:00.000Z
 ---
-limited to 200 total blocks
+总共限制 200 个块

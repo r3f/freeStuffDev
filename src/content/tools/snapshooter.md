@@ -4,11 +4,10 @@ title: SnapShooter
 link: https://snapshooter.com/
 thumbnail: https://snapshooter.com/apple-icon-180x180.png
 snippet: >-
-  Take up to hourly backup and snapshots for DigitalOcean and all providers.
-  Scheduled and simple, allowing fast recovery
-tags: ["backup", " database"]
+  为 DigitalOcean 和所有提供商提供每小时备份和快照。计划简单，恢复快速。
+tags: ["备份", "数据库"]
 ---
-Backup daily 
-1 backup job 
-Daily retention 500 MB 
-Connect own storage
+每日备份
+1 个备份作业
+每日保留 500 MB
+连接自己的存储

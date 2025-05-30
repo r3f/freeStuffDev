@@ -3,10 +3,10 @@ title: Algolia
 link: https://algolia.com/
 thumbnail: >-
   https://www.algolia.com/algoliaweb-static-favicons/light-mode/favicon-32x32.png
-snippet: Algolia is a flexible Search & Discovery Hosted API for Developers
-tags: ["search"]
+snippet: Algolia 是一个为开发人员提供的灵活的搜索和发现托管 API
+tags: ["搜索"]
 createdAt: 2021-06-18T00:00:00.000Z
 ---
-Up to 10k searches / month
-1m records included
-AI features to test
+每月最多 1 万次搜索
+包含 100 万条记录
+可测试的人工智能功能

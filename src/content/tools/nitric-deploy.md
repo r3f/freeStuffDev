@@ -3,12 +3,11 @@ title: Nitric Deploy
 link: https://deploy.nitric.io
 thumbnail: https://deploy.nitric.io/favicon/apple-touch-icon.png
 snippet: >-
-  Nitric Deploy builds and deploys the right infrastructure from your code in
-  your chosen cloud. Get excellent developer experience with simple deployments.
-tags: ["serverless", "api", "aws"]
+  Nitric Deploy 可根据你的代码在指定云平台自动构建和部署基础设施，带来极佳开发体验和简单部署。
+tags: ["无服务器", "api", "aws"]
 createdAt: 2022-09-19T00:00:00.000Z
 ---
-Unlimited Projects
-Single Organisation
-Single User
-1 Concurrent Build
+项目不限
+单一组织
+单一用户
+1 个并发构建

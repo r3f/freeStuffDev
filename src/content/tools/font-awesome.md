@@ -4,12 +4,11 @@ title: Font Awesome
 link: https://fontawesome.com/
 thumbnail: https://fontawesome.com/images/favicon/apple-touch-icon.png
 snippet: >-
-  The world’s most popular and easiest to use icon set just got an upgrade. More
-  icons. More styles. More Options.
-tags: ["asset", " icon"]
+  世界上最受欢迎且最易于使用的图标集刚刚升级。更多图标。更多样式。更多选择。
+tags: ["资产", "图标"]
 ---
-1,608 Icons
-1 Style + Brands
-1 Seat
-1 Free Kit
-10K Pageviews/Month
+1,608个图标
+1种样式 + 品牌
+1个席位
+1个免费工具包
+每月1万次页面浏览量

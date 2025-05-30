@@ -2,15 +2,15 @@
 import Layout from '../layouts/Layout.astro'
 import Header from '../components/Header.astro'
 
-const title="Add new stuff"
-const description="Any tools to add? We'll redirect you to github PR's page after submit"
+const title="添加新内容"
+const description="有什么工具要添加吗？提交后我们将引导您到 GitHub PR 页面"
 ---
 
 <Layout
-	title={title}
-	description={description}
-	noIndex={true}
-	>
+    title={title}
+    description={description}
+    noIndex={true}
+    >
 
     <Header
         title={title}
@@ -19,76 +19,76 @@ const description="Any tools to add? We'll redirect you to github PR's page afte
 
     <div class="flex-row space-y-5 max-w-3xl mx-auto">
             <div>
-                <label class="block mb-2" for="input_url"><b>1. Link (use http:// or https://)</b></label>
+                <label class="block mb-2" for="input_url"><b>1. 链接 (使用 http:// 或 https://)</b></label>
                 <input class="bg-slate-600 p-3 w-full rounded-lg" id="input_url" type="url" required>
             </div>
 
             <div>
-                <label class="block mb-2" for="input_tags"><b>2. Tags</b> </label>
+                <label class="block mb-2" for="input_tags"><b>2. 标签</b> </label>
                 <input class="bg-slate-600 p-3 w-full rounded-lg" id="input_tags" type="text" required>
-                <small><pre class="mt-2">example: hosting,authentication ..</pre></small>
+                <small><pre class="mt-2">例如: hosting,authentication ..</pre></small>
             </div>
 
             <div>
-                <label class="block mb-2" for="input_benefits"><b>3. What's free?</b></label>
-                <textarea 
+                <label class="block mb-2" for="input_benefits"><b>3. 哪些是免费的?</b></label>
+                <textarea
                     class="bg-slate-600 p-3 w-full rounded-lg"
                     name="benefits" id="input_benefits" cols="30" rows="5"></textarea>
                 <small>
 <pre class="mt-2">
-example:
-Free self-hosted
-Upload up to 30mb
+例如:
+免费自托管
+上传最大 30mb
 </pre>
                 </small>
             </div>
 
             <!-- <div>
-                <label class="block mb-2" for="date"><b>4. (Optional) Schedule post</b></label>
+                <label class="block mb-2" for="date"><b>4. (可选) 定时发布</b></label>
                 <input class="bg-slate-600 p-3 w-full rounded-lg" class="input" type="datetime-local" id="date">
             </div> -->
 
-            <button 
+            <button
                 class="bg-sky-400 hover:bg-sky-500 p-3 rounded-lg text-white w-full"
-                onclick="return validateSubmission();">Submit</button>
+                onclick="return validateSubmission();">提交</button>
             <p id="status"></p>
-            <p>Thanks for your contribution!</p>
+            <p>感谢您的贡献！</p>
     </div>
 
         <script is:inline>
             function validateSubmission() {
                 let status = document.getElementById('status')
-                let url = document.getElementById('input_url').value 
+                let url = document.getElementById('input_url').value
                 let tags = document.getElementById('input_tags').value
                 let benefits = document.getElementById('input_benefits').value
-                // let date = document.getElementById('date').value
+                // let date = document.getElementById('date').value // 日期
 
                 let METAFETCH_URL = "https://web-meta-scrapper.vercel.app/api?url=" + url
 
-                status.innerText = 'Loading...'
+                status.innerText = '加载中...'
                 fetch(METAFETCH_URL)
                     .then(response => response.json())
                     .then(function (data) {
-                        status.innerText = 'Redirect..'
+                        status.innerText = '重定向中..'
 
                         let preFilledlink = generateUrl(data.body, url, tags, benefits)
                         console.log(preFilledlink)
                         window.open(preFilledlink)
 
-                        //redirect with all encoded data   
+                        // 使用所有编码数据重定向
                         return false;
                     }).catch((error) => {
-                        console.log('error-> ')
+                        console.log('错误-> ')
                         console.log(error)
-                        status.innerHTML = "Sorry.. something went wrong. \n"
-                            + "You can still contribute via<a class='link' href='https://github.com/hilmanski/freeStuffDev/new/main/src/content/tools?value=%2D%2D%2D%0AcreatedAt%20%3A%20YYYY-MM-DDT00%3A00%3A00%2B00%3A00%0Atags%20%3A%20%5B%22tag%22%5D%0Atitle%3A%22Title%22%0Alink%20%3A%20%22https%3A%2F%2Flink%22%0Athumbnail%20%3A%20%22url_thumbnail%22%0Asnippet%3A%22Snippet%20of%20product%22%0A%2D%2D%2D%0ADetail%20what%27s%20free%20here..%0A'> this link </a>"
+                        status.innerHTML = "抱歉.. 出现了一些问题。\n"
+                            + "您仍然可以通过<a class='link' href='https://github.com/r3f/freeStuffDev/new/main/src/content/tools?value=%2D%2D%2D%0AcreatedAt%20%3A%20YYYY-MM-DDT00%3A00%3A00%2B00%3A00%0Atags%20%3A%20%5B%22tag%22%5D%0Atitle%3A%22Title%22%0Alink%20%3A%20%22https%3A%2F%2Flink%22%0Athumbnail%20%3A%20%22url_thumbnail%22%0Asnippet%3A%22Snippet%20of%20product%22%0A%2D%2D%2D%0ADetail%20what%27s%20free%20here..%0A'> 此链接 </a>贡献"
                     });
 
                 return false;
             }
 
             function generateUrl(_info, _URL, _tags, _benefits) {
-                //2. Thumbnail
+                //2. 缩略图
                 let thumbnail = ''
 
                 if (_info.icon != null)
@@ -97,25 +97,25 @@ Upload up to 30mb
                 if (_info.maskIcon != null)
                     thumbnail = _info.maskIcon.href
 
-                if (_info.touchIcons?.length != 0 && _info.touchIcons != undefined) 
+                if (_info.touchIcons?.length != 0 && _info.touchIcons != undefined)
                     thumbnail = _info.touchIcons[_info.touchIcons?.length - 1].href
 
-                //3. Tags
+                //3. 标签
                 const tags = '["' + _tags.replace(/,/g, '","') + '"]'
 
-                //4. Title
+                //4. 标题
                 const title = _info.name || _info.title
 
-                //5. link
+                //5. 链接
                 const url = _URL
 
-                //6. Snippet
+                //6. 摘要
                 const snippet = _info.description
 
-                //7. Content
+                //7. 内容
                 const content = _benefits
 
-                //8. FIlename
+                //8. 文件名
                 const filename = generateFileName(title) + ".md"
 
 let fileText = `---
@@ -130,7 +130,7 @@ ${content}`
 
                 fileText = encodeURIComponent(fileText)
 
-                return "https://github.com/hilmanski/freeStuffDev/new/main/src/content/tools?value=" + fileText
+                return "https://github.com/r3f/freeStuffDev/new/main/src/content/tools?value=" + fileText
                     + "&filename=" + filename
             }
 

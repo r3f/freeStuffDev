@@ -4,17 +4,14 @@ title: Dotenv
 link: https://www.dotenv.org/
 thumbnail: https://raw.githubusercontent.com/motdotla/dotenv/master/dotenv.png
 snippet: >-
-  Sync your .env files, quickly & securely. Stop sharing them over insecure
-  channels like Slack and email, and never lose an important .env file again.
-  From the same people that pioneered dotenv - trusted by more than 2.5 million
-  developers.
-tags: ["app-configuration", " secrets-manager"]
+  快速、安全地同步您的 .env 文件。停止通过 Slack 和电子邮件等不安全的渠道共享它们，再也不会丢失重要的 .env 文件。来自开创 dotenv 的同一批人——受到超过 250 万开发人员的信任。
+tags: ["app-configuration", "secrets-manager"]
 ---
-Unlimited secrets
-Unlimited projects
-Slack notifications
-Partner integrations
-Multiple environments
-Custom environments
-User access controls
-Version history
+无限机密
+无限项目
+Slack 通知
+合作伙伴集成
+多个环境
+自定义环境
+用户访问控制
+版本历史

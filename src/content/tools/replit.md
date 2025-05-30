@@ -3,12 +3,11 @@ title: Replit
 link: https://replit.com/
 thumbnail: https://replit.com/public/images/sm.png
 snippet: >-
-  Replit is a simple yet powerful online IDE, Editor, Compiler, Interpreter, and
-  REPL. Code, compile, run, and host in 50+ programming languages.
-tags: ["IDE"]
+  Replit 是一款简单而强大的在线 IDE、编辑器、编译器、解释器和 REPL。支持 50+ 种编程语言的编写、编译、运行和托管。
+tags: ["在线 IDE"]
 createdAt: 2021-06-17T00:00:00.000Z
 ---
-Multiplayer collaboration
-500MB of storage
-500MB of memory
-0.2 - 0.5 vCPUs
+多人协作
+500MB 存储
+500MB 内存
+0.2 - 0.5 vCPU

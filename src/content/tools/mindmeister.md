@@ -3,10 +3,9 @@ title: MindMeister
 link: https://www.mindmeister.com/
 thumbnail: https://www.mindmeister.com/mm_favicon.ico
 snippet: >-
-  100% customizable mind map designs! Change alignments, add images, videos,
-  etc. Invite your team, comment and vote - Try the free plan or go Pro!
-tags: ["productivity", "note-taking"]
+  100% 可自定义的思维导图设计！可更改对齐方式、添加图片、视频等。邀请团队成员、评论和投票——可试用免费方案或升级专业版！
+tags: ["效率", "笔记"]
 createdAt: 2021-06-21T00:00:00.000Z
 ---
-Up to 3 mind maps
-Real-time collaboration
+最多 3 个思维导图
+实时协作

@@ -4,8 +4,7 @@ title: Freepik
 link: https://www.freepik.com/
 thumbnail: https://freepik.cdnpk.net/img/favicons/favicon.ico?v=2018082101
 snippet: >-
-  Millions of Free Graphic Resources. ✓ Vectors ✓ Stock Photos ✓ PSD ✓ Icons ✓
-  All that you need for your Creative Projects
-tags: ["asset", "vector", "stock-photo"]
+  数百万免费图形资源。✓ 矢量图 ✓ 库存照片 ✓ PSD ✓ 图标 ✓ 满足您创意项目所需的一切
+tags: ["资产", "矢量图", "库存照片"]
 ---
-Free graphic resource such a vectors, stock photos, and PSD download
+免费图形资源，例如矢量图、库存照片和 PSD 下载

@@ -4,7 +4,6 @@ title: OS Resume
 link: https://osresume.vercel.app/
 thumbnail: https://osresume.vercel.app/_next/image?url=%2Ficon-192x192.png&w=32&q=75
 snippet: >-
-  Oversimplifying Resume Building Process. Create your professional resume in 15
-  minutes
-tags: ["CV-builder"]
+  极简化简历制作流程。15 分钟内创建你的专业简历。
+tags: ["简历生成器"]
 ---

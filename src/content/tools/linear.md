@@ -4,12 +4,11 @@ title: Linear
 link: https://linear.app/
 thumbnail: https://linear.app/static/apple-touch-icon.png
 snippet: >-
-  Linear helps streamline software projects, sprints, tasks, and bug tracking.
-  Its built for high-performance teams.
-tags: ["issue-tracking", " bug", " project-management"]
+  Linear 帮助简化软件项目、冲刺、任务和错误跟踪。它专为高绩效团队打造。
+tags: ["问题跟踪", "错误", "项目管理"]
 ---
-Unlimited members
-Upload size: 10 MB
-Upload Volume: 150MB/month
-Issues (excluding Archive)
+无限制成员
+上传大小：10 MB
+上传容量：150MB/月
+问题 (不包括存档)
 250

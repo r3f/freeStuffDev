@@ -3,9 +3,7 @@ title: Witeboard
 link: https://witeboard.com/
 thumbnail: https://witeboard.com/favicon.ico
 snippet: >-
-  Witeboard is the fastest real-time online whiteboard for your team. Share with
-  your team and view on mobile, tablet, or desktop. No sign ups, no
-  installations.
-tags: ["remote"]
+  Witeboard 是团队协作最快的实时在线白板。可与团队共享，并支持手机、平板或桌面端访问。无需注册，无需安装。
+tags: ["远程协作"]
 createdAt: 2021-07-24T00:00:00.000Z
 ---

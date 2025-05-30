@@ -3,9 +3,8 @@ title: LYNK
 link: https://lynk.id/
 thumbnail: https://lynk.id/static/assets/imgs/favico.png
 snippet: >-
-  Create Instant Mobile Webpage to sell your knowledge. Chat, Video Calls,
-  Events, Digital Product. Share it across social media.
-tags: ["links", " bio"]
+  快速创建移动网页，出售你的知识。支持聊天、视频通话、活动、数字产品。可在社交媒体上分享。
+tags: ["链接", "个人简介"]
 createdAt: 2021-10-01T00:00:00.000Z
 ---
-within minutes, you’ll have a FREE website to share your skills
+几分钟内即可拥有一个免费展示技能的网站

@@ -4,9 +4,7 @@ title: IPinfo.io
 link: https://ipinfo.io/
 thumbnail: https://ipinfo.io/static/deviceicons/android-icon-192x192.png
 snippet: >-
-  Were the trusted source for IP address information, handling 40 billion IP
-  geolocation API requests per month for over 1,000 businesses and 100,000+
-  developers
-tags: ["ip-address-api", "geolocaiton-api"]
+  我们是值得信赖的 IP 地址信息来源，每月为超过 1,000 家企业和 100,000 多名开发人员处理 400 亿次 IP 地理位置 API 请求。
+tags: ["ip地址api", "地理位置api"]
 ---
-Geolocation 50k requests / month
+每月 5 万次地理位置请求

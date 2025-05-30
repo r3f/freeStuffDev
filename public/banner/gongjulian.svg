@@ -1,0 +1,66 @@
+<svg width="269" height="155" viewBox="0 0 269 155" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#667eea;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#764ba2;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="iconGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#ffffff;stop-opacity:0.9" />
+      <stop offset="100%" style="stop-color:#ffffff;stop-opacity:0.7" />
+    </linearGradient>
+  </defs>
+  
+  <!-- 背景 -->
+  <rect width="269" height="155" fill="url(#bgGradient)" rx="8"/>
+  
+  <!-- 装饰性几何图形 -->
+  <circle cx="230" cy="30" r="25" fill="rgba(255,255,255,0.1)"/>
+  <circle cx="250" cy="130" r="15" fill="rgba(255,255,255,0.05)"/>
+  <rect x="10" y="10" width="20" height="20" fill="rgba(255,255,255,0.1)" rx="3"/>
+  
+  <!-- 工具图标组 -->
+  <g transform="translate(20, 25)">
+    <!-- 齿轮图标 -->
+    <g fill="url(#iconGradient)">
+      <path d="M15 8c0-1.1.9-2 2-2s2 .9 2 2-.9 2-2 2-2-.9-2-2zm7.71-4.71L20.3 5.7c.39.39.39 1.02 0 1.41l-1.41 1.41c-.39.39-1.02.39-1.41 0L15.88 7c-.13.05-.27.1-.41.14l-.25 2.02c-.05.55-.49.99-1.04.99h-2c-.55 0-.99-.44-1.04-.99L10.89 7.14c-.14-.04-.28-.09-.41-.14L8.88 8.52c-.39.39-1.02.39-1.41 0L6.06 7.11c-.39-.39-.39-1.02 0-1.41L7.48 4.29c-.05-.13-.1-.27-.14-.41L5.32 3.63C4.77 3.58 4.33 3.14 4.33 2.59v-2c0-.55.44-.99.99-1.04L7.34.3c.04-.14.09-.28.14-.41L6.06 1.3c-.39-.39-.39-1.02 0-1.41L7.47-.52c.39-.39 1.02-.39 1.41 0L10.48 1c.13-.05.27-.1.41-.14L11.14.84c.05-.55.49-.99 1.04-.99h2c.55 0 .99.44 1.04.99l.25 2.02c.14.04.28.09.41.14l1.6-1.52c.39-.39 1.02-.39 1.41 0l1.41 1.41c.39.39.39 1.02 0 1.41L18.89 4.3c.05.13.1.27.14.41l2.02.25c.55.05.99.49.99 1.04v2c0 .55-.44.99-.99 1.04l-2.02.25c-.04.14-.09.28-.14.41l1.52 1.6c.39.39.39 1.02 0 1.41z"/>
+    </g>
+  </g>
+  
+  <!-- 代码符号 -->
+  <g transform="translate(50, 30)" fill="rgba(255,255,255,0.8)">
+    <text font-family="monospace" font-size="18" font-weight="bold">&lt;/&gt;</text>
+  </g>
+  
+  <!-- 主标题 -->
+  <text x="20" y="85" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white">
+    工具链 IT-Tools
+  </text>
+  
+  <!-- 副标题 -->
+  <text x="20" y="110" font-family="Arial, sans-serif" font-size="14" fill="rgba(255,255,255,0.9)">
+    助力开发人员和IT工作者
+  </text>
+  
+  <!-- 装饰性线条 -->
+  <line x1="20" y1="120" x2="120" y2="120" stroke="rgba(255,255,255,0.3)" stroke-width="2"/>
+  
+  <!-- 右侧图标组 -->
+  <g transform="translate(180, 40)">
+    <!-- 数据库图标 -->
+    <rect x="0" y="0" width="30" height="20" rx="3" fill="rgba(255,255,255,0.2)" stroke="rgba(255,255,255,0.4)" stroke-width="1"/>
+    <rect x="5" y="5" width="20" height="3" fill="rgba(255,255,255,0.4)"/>
+    <rect x="5" y="10" width="15" height="3" fill="rgba(255,255,255,0.3)"/>
+    
+    <!-- 网络图标 -->
+    <g transform="translate(40, 0)">
+      <circle cx="5" cy="5" r="3" fill="rgba(255,255,255,0.3)"/>
+      <circle cx="15" cy="15" r="3" fill="rgba(255,255,255,0.3)"/>
+      <circle cx="25" cy="5" r="3" fill="rgba(255,255,255,0.3)"/>
+      <line x1="8" y1="5" x2="12" y2="15" stroke="rgba(255,255,255,0.4)" stroke-width="1"/>
+      <line x1="18" y1="15" x2="22" y2="5" stroke="rgba(255,255,255,0.4)" stroke-width="1"/>
+    </g>
+  </g>
+  
+  <!-- 底部装饰 -->
+  <path d="M0 155 Q134 140 269 155" fill="rgba(255,255,255,0.05)"/>
+</svg>

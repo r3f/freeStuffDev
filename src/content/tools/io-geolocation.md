@@ -1,9 +1,9 @@
 ---
-title: "IP Geolocation"
+title: "IP 地理位置"
 link: "https://ipgeolocation.io"
 thumbnail: "https://ipgeolocation.io/images/favicon.ico"
-snippet: "Free IP Geolocation API and Accurate IP Database provides country, city, zip code, ISP data in REST JSON and XML format from any IPv4 and IPv6 Address."
-tags: ["ip-address-api", "geolocaiton-api"]
+snippet: "免费 IP 地理位置 API 和准确的 IP 数据库，可通过任何 IPv4 和 IPv6 地址以 REST JSON 和 XML 格式提供国家、城市、邮政编码、ISP 数据。"
+tags: ["ip地址api", "地理位置api"]
 createdAt: 2024-04-11T18:33:32.291Z
 ---
-30K requests per month(For Non-Commercial Usage)
+每月 3 万次请求（非商业用途）

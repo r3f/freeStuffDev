@@ -4,8 +4,6 @@ title: Total.js Platform
 link: https://www.totaljs.com/
 thumbnail: https://www.totaljs.com/download/nj4s001aw41d.png
 snippet: >-
-  Total.js Platform is a collection of server-side & client-side
-  JavaScript/Node.js libraries, Web Components, icons, practices, and complete
-  apps written in pure JavaScript, mostly without dependencies.
-tags: ["devtools", " cms", " text-editor", " visual-programming", "components"]
+  Total.js Platform 是一套纯 JavaScript 编写的服务端与客户端库、Web 组件、图标、实践和完整应用，大多无依赖。
+tags: ["开发者工具", "CMS", "文本编辑器", "可视化编程", "组件"]
 ---

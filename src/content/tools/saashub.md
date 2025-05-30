@@ -3,9 +3,8 @@ title: SaaSHub
 link: https://www.saashub.com/
 thumbnail: https://pbs.twimg.com/profile_images/1191608930259963905/LuNYlK4s_400x400.jpg
 snippet: >-
-  Find the best software and alternatives. Our goal is to be objective and
-  helpful.
-tags: ["saas", "alternative"]
+  寻找最佳软件和替代品。我们的目标是客观且有帮助。
+tags: ["saas", "替代品"]
 createdAt: 2022-11-22T00:00:00.000Z
 ---
-Curated links, reviews, information and research on software alternatives
+精选链接、评论、信息和软件替代品研究

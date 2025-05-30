@@ -3,9 +3,8 @@ title: Modoboa
 link: https://modoboa.org/en/
 thumbnail: https://modoboa.org/static/img/favicon.ico
 snippet: >-
-  Modoboa is an open source email server including a modern and simplified Web
-  User Interface.
-tags: ["mail-server"]
+  Modoboa 是一款开源邮件服务器，包含一个现代化且简化的 Web 用户界面。
+tags: ["邮件服务器"]
 createdAt: 2023-01-30T00:00:00.000Z
 ---
-self-hosted
+自托管

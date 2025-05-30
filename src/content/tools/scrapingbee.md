@@ -4,8 +4,7 @@ title: ScrapingBee
 link: https://www.scrapingbee.com?fpr=hil54
 thumbnail: https://www.scrapingbee.com/images/favico.png
 snippet: >-
-  ScrapingBee is a Web Scraping API that handles proxies and Headless browser
-  for you, so you can focus on extracting the data you want, and nothing else.
-tags: ["scraping", " crawling"]
+  ScrapingBee 是一款 Web 爬虫 API，自动处理代理和无头浏览器，让你专注于数据提取。
+tags: ["爬虫", "抓取"]
 ---
-1000 free API calls.
+每月 1000 次免费 API 调用。

@@ -1,12 +1,11 @@
 ---
-createdAt: 2021-09-29T05:24:00.000Z
+createdAt: 2021-09-29 05:24:00+00:00
 title: Hiring Without Whiteboards
 link: https://github.com/poteto/hiring-without-whiteboards
 thumbnail: https://github.githubassets.com/pinned-octocat.svg
-snippet: >-
-  A list of companies (or teams) that dont do whiteboard interviews.
-  Whiteboards is used as a metaphor, and is a symbol for the kinds of CS trivia
-  questions that are associated with bad interview practices. Whiteboards are
-  not bad – CS trivia questions are
-tags: ["hiring", "awesome-list", " skill-test"]
+snippet: 不进行白板面试的公司（或团队）列表。白板被用作隐喻，象征着与不良面试实践相关的计算机科学琐事问题。白板本身并不坏——计算机科学琐事问题才是。
+tags:
+- 招聘
+- awesome-list
+- 技能测试
 ---

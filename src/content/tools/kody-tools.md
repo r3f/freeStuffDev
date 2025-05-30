@@ -1,11 +1,10 @@
 ---
-title: Kody Tools
+title: Kody 工具
 link: https://www.kodytools.com/
 thumbnail: https://www.kodytools.com/favicon.ico
 snippet: >-
-  All kinds of online tools such as converters, calculators, hash generators,
-  text generators, encoders, decoders, etc.
-tags: ["devtool", " calculators", " converters"]
+  各种在线工具，例如转换器、计算器、哈希生成器、文本生成器、编码器、解码器等。
+tags: ["开发工具", "计算器", "转换器"]
 createdAt: 2023-01-09T00:00:00.000Z
 ---
-All tools
+所有工具

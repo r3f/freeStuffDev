@@ -4,10 +4,9 @@ title: Sumo Logic
 link: https://www.sumologic.com/
 thumbnail: https://pbs.twimg.com/profile_images/1278409758765170689/cCesT9pG_400x400.jpg
 snippet: >-
-  Sumo Logic provides best-in-class cloud monitoring, log management, Cloud SIEM
-  tools, and real-time insights for web and SaaS based apps.
-tags: ["monitoring"]
+  Sumo Logic 为基于 Web 和 SaaS 的应用程序提供一流的云监控、日志管理、云 SIEM 工具和实时洞察。
+tags: ["监控"]
 ---
-Log Analytics
-500MB/day
-Community Support
+日志分析  
+500MB/天  
+社区支持

@@ -3,18 +3,16 @@ title: Sirv
 link: https://sirv.com/
 thumbnail: https://sirv.sirv.com/apple-touch-icon.png
 snippet: >-
-  Sirv helps you and your team manage, transform, optimize and deliver digital
-  assets for faster websites and apps. Increase your conversions with Sirv
-  today.
-tags: ["image-optimizer", "image-hosting", "media-CDN"]
+  Sirv 帮助你和团队管理、转换、优化和分发数字资产，让网站和应用更快。提升转化率。
+tags: ["图片优化", "图床", "媒体CDN"]
 createdAt: 2022-10-17T00:00:00.000Z
 ---
-Media CDN
-File uploads
-Easy file management
-Image processing
-Image optimisation
-Video streaming
-360 spin serving
-500 MB file storage
-2 GB / month CDN transfer
+媒体 CDN
+文件上传
+便捷文件管理
+图片处理
+图片优化
+视频流
+360° 旋转展示
+500MB 文件存储
+每月 2GB CDN 流量

@@ -3,14 +3,13 @@ title: Back4app™
 link: https://www.back4app.com
 thumbnail: https://www.back4app.com/_public/favicon.png
 snippet: >-
-  Our simple, straightforward plans offer stability and predictability at the
-  end of the month. No more surprise bills.
-tags: ["database", "hosting", "graphql", "authentication", "hosting-backend"]
+  我们简单明了的计划在月底提供稳定性和可预测性。不再有意外账单。
+tags: ["数据库", "托管", "GraphQL", "身份验证", "后端托管"]
 createdAt: 2023-02-23T00:00:00.000Z
 ---
-Ideal for developing, learning and prototyping. 
-Explore our features and start building with free monthly capacity of 25k requests, 
-250MB data storage,
-1GB transfer,
-1GB file storage. 
-Supported by community.
+非常适合开发、学习和原型设计。 
+探索我们的功能并通过每月免费容量（25k 请求、 
+250MB 数据存储、 
+1GB传输、 
+1GB 文件存储）开始构建。 
+由社区支持。

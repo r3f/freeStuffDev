@@ -5,8 +5,6 @@ link: https://meetcafecito.com/
 thumbnail: >-
   https://uploads-ssl.webflow.com/5f26dabfbe698e932dc1bc7b/5f3883cdfb8e3ed125d16a32_beeg.png
 snippet: >-
-  Cafecito connects technical and non-tech creatives for casual and informal
-  virtual chats. Meet like-minded creatives from all over the world for a coffee
-  break while you work from home.
-tags: ["community"]
+  Cafecito 让技术和非技术创意人可以轻松进行休闲、非正式的线上交流。居家办公时，与全球志同道合的创意人一起喝咖啡聊天。
+tags: ["社区"]
 ---

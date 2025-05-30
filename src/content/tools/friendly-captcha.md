@@ -4,8 +4,8 @@ title: Friendly Captcha
 link: https://friendlycaptcha.com/
 thumbnail: >-
   https://friendlycaptcha.com/wp-content/uploads/2021/02/xcropped-FriendlyCaptcha-AppIcon-180x180.png.pagespeed.ic.sXxyT-URaW.png
-snippet: Bot protection for the internet
-tags: ["captcha", " security"]
+snippet: 互联网机器人防护
+tags: ["验证码", "安全"]
 ---
-1,000 requests / month
-Not for commercial
+每月 1,000 次请求
+非商业用途

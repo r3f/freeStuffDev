@@ -4,9 +4,8 @@ title: Livecycle
 link: https://livecycle.io/
 thumbnail: https://livecycle.io/icons/icon-512x512.png?v=b00adfc7976879331e1a3c25dcfe732a
 snippet: >-
-  Get PRs reviewed instantly and ship code 10x faster by collaborating on top of
-  ephemeral environments.
+  通过在临时环境之上进行协作，即时审查 PR 并将代码发布速度提高 10 倍。
 tags: ["code-review", "pull-request"]
 ---
-Free tier: Up to 5 active team members
-Free forever: For open source projects, unlimited members
+免费套餐：最多 5 名活跃团队成员
+永久免费：对于开源项目，成员数量不限

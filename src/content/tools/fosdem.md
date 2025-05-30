@@ -3,9 +3,7 @@ title: FOSDEM
 link: https://fosdem.org
 thumbnail: https://fosdem.org/2023/apple-touch-icon.png
 snippet: >-
-  FOSDEM is a free event for software developers to meet, share ideas and
-  collaborate. Every year, thousands of developers of free and open source
-  software from all over the world gather at the event in Brussels.
-tags: ["community", "meetup"]
+  FOSDEM是一个免费活动，供软件开发人员会面、分享想法和协作。每年，来自世界各地的数千名自由和开源软件开发人员聚集在布鲁塞尔参加此活动。
+tags: ["社区", "聚会"]
 createdAt: 2022-12-20T00:00:00.000Z
 ---

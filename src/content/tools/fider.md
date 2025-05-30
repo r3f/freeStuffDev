@@ -2,8 +2,8 @@
 title: "Fider"
 link: "https://fider.io/"
 thumbnail: "https://fider.io/apple-touch-icon.png"
-snippet: "Give your customers a voice and let them tell you what they need. Spend less time guessing and more time building the right product."
-tags: ["feedback"]
+snippet: "倾听客户的声音，让他们告诉您他们需要什么。花更少的时间猜测，花更多的时间构建正确的产品。"
+tags: ["反馈"]
 createdAt: 2024-03-21T03:01:15.915Z
 ---
-Open Source (Self host)
+开源（自托管）

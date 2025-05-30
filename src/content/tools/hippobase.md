@@ -4,7 +4,6 @@ title: Hippobase
 link: https://hippobase.io/
 thumbnail: https://hippobase.io/assets/favicon/favicon.ico
 snippet: >-
-  Self-host open source databases in one click. Hippobase makes it easy to
-  self-host leading open source tools like Postgres and Mongodb
-tags: ["database"]
+  一键自托管开源数据库。Hippobase 使自托管 Postgres 和 Mongodb 等领先的开源工具变得容易。
+tags: ["数据库"]
 ---

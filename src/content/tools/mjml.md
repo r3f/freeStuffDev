@@ -4,7 +4,6 @@ title: MJML
 link: https://mjml.io/
 thumbnail: https://avatars.githubusercontent.com/u/16115896?s=200&v=4
 snippet: >-
-  The only framework that makes responsive email easy. MJML is a markup language
-  designed to reduce the pain of coding a responsive email.
-tags: ["mail"]
+  唯一让响应式邮件开发变得简单的框架。MJML 是专为减少响应式邮件开发痛点而设计的标记语言。
+tags: ["邮件"]
 ---

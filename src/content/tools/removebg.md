@@ -4,9 +4,8 @@ link: https://www.remove.bg/
 thumbnail: >-
   https://ik.imagekit.io/kodingclub/freestuffdev/stuff/Screen_Shot_2021-06-22_at_1.51.46_PM_od-Mirja19W-.png
 snippet: >-
-  Remove image backgrounds automatically in 5 seconds with just one click. Dont
-  spend hours manually picking pixels. Upload your photo now & see the magic.
-tags: ["API", "image-API"]
+  只需单击一下，即可在 5 秒钟内自动删除图像背景。无需花费数小时手动选取像素。立即上传您的照片，见证奇迹。
+tags: ["API", "图像-API"]
 createdAt: 2021-06-21T00:00:00.000Z
 ---
-Free to use via web, via API 50 free previews
+通过网络免费使用，通过 API 可免费预览 50 次

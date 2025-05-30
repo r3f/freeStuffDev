@@ -1,14 +1,11 @@
 ---
-tags: ["ide", "kubernetes"]
+tags: ["IDE", "kubernetes"]
 title: Eclipse Che
 link: https://www.eclipse.org/che/
 thumbnail: >-
   https://raw.githubusercontent.com/eclipse/che-website/master/che/images/getting-started/che-logo.png
 snippet: >-
-  The Kubernetes-Native IDE for Developer Teams. Eclipse Che makes Kubernetes
-  development accessible for developer teams, providing one-click developer
-  workspaces and eliminating local environment configuration for your entire
-  team.
+  面向开发团队的 Kubernetes 原生 IDE。Eclipse Che 使开发团队可以访问 Kubernetes 开发，提供一键式开发人员工作区，并为您的整个团队消除本地环境配置。
 createdAt: 2021-06-21T00:00:00.000Z
 ---
-Open Source
+开源

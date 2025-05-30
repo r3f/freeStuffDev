@@ -4,9 +4,8 @@ link: https://sendgrid.com
 thumbnail: >-
   https://sendgrid.com/wp-content/themes/sgdotcom/pages/resource/brand//2016/SendGrid-Logomark.png
 snippet: >-
-  Delivering your transactional and marketing emails through the worlds largest
-  cloud-based email delivery platform. Send with confidence.
-tags: ["mail"]
+  全球最大云邮件发送平台，支持事务型和营销邮件投递。放心发送。
+tags: ["邮件"]
 createdAt: 2021-06-18T00:00:00.000Z
 ---
-100 emails/day forever
+每天 100 封邮件永久免费

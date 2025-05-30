@@ -3,11 +3,10 @@ title: Datadog
 link: https://datadoghq.com
 thumbnail: https://imgix.datadoghq.com/img/favicons/apple-touch-icon.png
 snippet: >-
-  Datadog is the essential monitoring and security platform for cloud
-  applications
-tags: ["log-management", "monitoring", "security"]
+  Datadog 是云应用程序的基本监控和安全平台
+tags: ["日志管理", "监控", "安全"]
 createdAt: 2021-07-02T00:00:00.000Z
 ---
-Core collection and visualization features
-1-day metric retention
-Up to 5 hosts
+核心收集和可视化功能
+1 天指标保留
+最多 5 台主机

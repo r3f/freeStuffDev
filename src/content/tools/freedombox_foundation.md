@@ -1,12 +1,10 @@
 ---
-title: FreedomBox Foundation
+title: FreedomBox 基金会
 link: https://freedomboxfoundation.org/
 thumbnail: https://freedomboxfoundation.org/images/freedombox_foundation_favicon.png
 snippet: >-
-  FreedomBox is a private server system that empowers regular people to host
-  their own internet services, like a VPN, a personal website, file sharing,
-  encrypted messengers, a VoIP server, a metasearch engine, and much more.
-tags: ["hosting"]
+  FreedomBox 是一个私人服务器系统，使普通人能够托管自己的互联网服务，例如 VPN、个人网站、文件共享、加密信使、VoIP 服务器、元搜索引擎等等。
+tags: ["托管"]
 createdAt: 2022-12-01T00:00:00.000Z
 ---
-Free self-hosted
+免费自行托管

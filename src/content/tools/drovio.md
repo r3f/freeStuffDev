@@ -3,12 +3,11 @@ title: Drovio
 link: https://www.drovio.com/
 thumbnail: https://www.drovio.com/assets/images/logo.svg
 snippet: >-
-  Bring your remote team together with Drovio. Collaborate on your screen, every
-  participant gets their own mouse cursor and youre all in control.
+  使用 Drovio 将您的远程团队聚集在一起。在您的屏幕上协作，每个参与者都有自己的鼠标光标，并且你们都可以控制。
 tags: ["pair-programming"]
 createdAt: 2021-07-02T00:00:00.000Z
 ---
-Screen sharing & calls are unlimited
-Remote control is limited to 30 minutes per day
-valid
-Up to 2 participants
+屏幕共享和通话不限次数
+远程控制每天限制 30 分钟
+有效
+最多 2 名参与者

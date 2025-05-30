@@ -3,9 +3,8 @@ title: Codiga
 link: https://www.codiga.io
 thumbnail: https://www.codiga.io/apple-touch-icon.png
 snippet: >-
-  Coding assistant for VS Code and Jetbrains and automated code reviews for
-  GitHub, GitLab and Bitbucket.
-tags: ["code-review", "code-analysis", "code-snippet", "coding-assistant"]
+  适用于 VS Code 和 Jetbrains 的编码助手，以及适用于 GitHub、GitLab 和 Bitbucket 的自动化代码审查。
+tags: ["代码审查", "代码分析", "代码片段", "编码助手"]
 createdAt: 2022-06-28T00:00:00.000Z
 ---
-Free for individuals, open-source projects and small teams
+对个人、开源项目和小型团队免费

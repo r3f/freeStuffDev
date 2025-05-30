@@ -4,7 +4,6 @@ title: CoderMirror
 link: https://www.codermirror.com/
 thumbnail: https://www.codermirror.com/img/favicon.png
 snippet: >-
-  Plugin for your IDE that tracks and analyzes your activity to create reports
-  on your coding and personalized learning material.
-tags: ["code-review"]
+  用于您的 IDE 的插件，可跟踪和分析您的活动，以创建关于您的编码和个性化学习材料的报告。
+tags: ["代码审查"]
 ---

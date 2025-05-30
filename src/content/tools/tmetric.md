@@ -3,13 +3,12 @@ title: TMetric
 link: https://tmetric.com/
 thumbnail: https://tmetric.com/images/logo_200_TM.png
 snippet: >-
-  Simple time tracking app for Windows, Mac, Linux which helps you control your
-  time, increase productivity, and monitor your team performance.
-tags: ["productivity", " time-tracking"]
+  适用于 Windows、Mac、Linux 的简单时间跟踪应用程序，可帮助您控制时间、提高工作效率并监控团队绩效。
+tags: ["生产力", "时间追踪"]
 createdAt: 2021-10-11T00:00:00.000Z
 ---
-tracking time with a timer
-reporting
-basic project management features
-team management
-integrations with 50+ tools
+通过计时器跟踪时间  
+报表功能  
+基础项目管理功能  
+团队管理  
+与 50 多种工具集成

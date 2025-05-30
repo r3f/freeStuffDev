@@ -4,12 +4,10 @@ title: Budibase
 link: https://www.budibase.com/
 thumbnail: https://www.budibase.com/favicon.ico
 snippet: >-
-  Budibase is a modern, open source low-code platform for designing, building
-  and shipping internal tools. Build applications 50x faster, and a whole lot
-  easier. Check it out.
-tags: ["admin-panel", " internal-tool"]
+  Budibase 是一个现代化的开源低代码平台，用于设计、构建和交付内部工具。构建应用程序的速度提高 50 倍，而且更加轻松。快来看看吧。
+tags: ["管理面板", "内部工具"]
 ---
-10,000 internal records
-4 applications
-SSO + Role based access control
-Community support
+10,000 条内部记录
+4 个应用程序
+SSO + 基于角色的访问控制
+社区支持

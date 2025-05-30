@@ -1,11 +1,10 @@
 ---
 title: Forem
 link: https://www.forem.com/
-thumbnail: >-
-  https://ik.imagekit.io/kodingclub/freestuffdev/stuff/Screen_Shot_2021-06-30_at_12.49.35_PM_zBcf6EfMsBEp.png
+thumbnail: https://www.forem.com/images/logos/forem-logomark-fb933960.svg
 snippet: >-
-  Forem is open source software for building communities. Empowering community
-  by fostering thoughtful connection.
-tags: ["community", "forum"]
-createdAt: 2021-06-30T00:00:00.000Z
+  Forem 是用于构建社区的开源软件。DEV 就是 Forem 的一个实例。
+tags: ["社区", "开源"]
+createdAt: 2022-01-01T00:00:00.000Z
 ---
+免费，开源，可自行托管

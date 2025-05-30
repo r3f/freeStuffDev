@@ -4,7 +4,6 @@ title: favicon.io
 link: https://favicon.io/
 thumbnail: https://i.ibb.co/8jqq54j/Screen-Shot-2021-08-18-at-1-49-26-PM.png
 snippet: >-
-  The only favicon generator you need for your next project. Quickly generate
-  your favicon from text, image, or choose from hundreds of emojis.
+  这是您下一个项目唯一需要的favicon生成器。从文本、图像快速生成您的favicon，或从数百个表情符号中选择。
 tags: ["favicon"]
 ---

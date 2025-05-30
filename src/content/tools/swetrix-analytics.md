@@ -1,14 +1,14 @@
 ---
-title: Swetrix Analytics
+title: Swetrix 分析
 link: https://swetrix.com
 thumbnail: https://swetrix.com/logo192.png
-snippet: Privacy-focused, cookieless and opensource web analytics service
-tags: ["analytics", "saas"]
+snippet: 注重隐私、无 Cookie 且开源的 Web 分析服务。
+tags: ["分析", "SaaS"]
 createdAt: 2022-05-19T00:00:00.000Z
 ---
-Free tier:
-Up to 5000 events per month.
-Create up to 10 projects.
+免费套餐：
+每月最多 5000 次事件。
+最多可创建 10 个项目。
 
-Selfhosed:
-No limits.
+自托管：
+无限制。

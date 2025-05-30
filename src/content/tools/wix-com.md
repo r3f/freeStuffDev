@@ -3,14 +3,13 @@ title: Wix
 link: https://www.wix.com/free/web-hosting
 thumbnail: https://www.wix.com/favicon.ico
 snippet: >-
-  With Wix, you get reliable, scalable and free web hosting. Get 24/7 security
-  monitoring, hassle-free setup and 99.9% uptime when you host your website.
-tags: ["hosting-static", "website-builder"]
+  使用 Wix，您将获得可靠、可扩展且免费的网页托管服务。提供 24/7 安全监控、便捷设置和 99.9% 在线率。
+tags: ["静态托管", "建站工具"]
 createdAt: 2022-10-03T00:00:00.000Z
 ---
-Free Hosting.
-Free 500MB cloud storage.
-Free 500MB bandwidth.
-99% uptime.
-Secure HTTPS and SSL protection
-Continous backup
+免费托管。
+500MB 免费云存储。
+500MB 免费带宽。
+99% 在线率。
+安全的 HTTPS 和 SSL 保护
+持续备份

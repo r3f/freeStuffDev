@@ -3,14 +3,13 @@ title: Kinde
 link: https://kinde.com
 thumbnail: https://kinde.com/favicon.ico
 snippet: >-
-  Simple, powerful authentication you can integrate with your product in
-  minutes.
-tags: ["authentication", "user-management"]
+  简单而强大的身份验证，您可以在几分钟内将其集成到您的产品中。
+tags: ["身份验证", "用户管理"]
 createdAt: 2023-06-09T00:00:00.000Z
 ---
-Up to 7,500 MAU per month
-SSO with unlimited social connections and MFA
-Basic role and permission management
-View and manage users
-Unlimited team members
-2,000 machine to machine tokens
+每月最多 7,500 MAU
+具有无限社交连接和 MFA 的 SSO
+基本角色和权限管理
+查看和管理用户
+无限的团队成员
+2,000 个机器对机器令牌

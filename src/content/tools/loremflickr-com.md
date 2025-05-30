@@ -4,7 +4,6 @@ title: LoremFlickr.com
 link: https://loremflickr.com/
 thumbnail: https://loremflickr.com/img/favicon.ico
 snippet: >-
-  LoremFlickr is a service that provides free placeholder images for web and
-  print. Like lorem Ipsum but image
-tags: ["asset", " image"]
+  LoremFlickr 是一个为网页和印刷品提供免费占位图片的服务。就像图片版的 lorem Ipsum。
+tags: ["素材", "图片"]
 ---

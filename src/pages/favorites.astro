@@ -6,8 +6,8 @@ import Card from '../components/Card.astro'
 
 const tools = await getCollection('tools')
 
-const title="Free tools and services for Developer"
-const description="List of free stuff for developer by developer to use. This is a collective list of useful services for developer you can use for your next MVP or prototpying your idea."
+const title="免费的开发者工具和服务"
+const description="由开发者为开发者提供的免费工具列表。这是一个有用的服务集合，可用于您的下一个 MVP 或原型设计。"
 
 ---
 
@@ -18,12 +18,12 @@ const description="List of free stuff for developer by developer to use. This is
 	>
 
 	<Header
-		title="❤️ Your Saved FreeStuffDev"
-		description="*We save it on localstorage. It means that you can only see this from your browser. You can't share it with others"
+		title="❤️ 您保存的 FreeStuffDev"
+		description="*我们将其保存在本地存储中。这意味着您只能在您的浏览器中看到它。您无法与他人分享。"
 		/>
 
 	<div class="empty-message hidden">
-		<p class="text-lg">You haven't saved any tools yet</p>
+		<p class="text-lg">您还没有保存任何工具</p>
 	</div>
 
 	<div class="mt-10">
@@ -34,8 +34,8 @@ const description="List of free stuff for developer by developer to use. This is
 		}
 	</div>
 
-    <script is:inline>
-        // Retreive item from local storage (saved/favourite items)
+	<script is:inline>
+		// 从本地存储中检索项目（已保存/收藏的项目）
 		console.log('FAV_KEY_NAME', FAV_KEY_NAME)
 		if (getObjectLS(FAV_KEY_NAME) !== null) {
 			var savedItems = getObjectLS(FAV_KEY_NAME).reverse()
@@ -54,6 +54,7 @@ const description="List of free stuff for developer by developer to use. This is
 			}
 		}
 
-    </script>
+	</script>
 
 </Layout>
+

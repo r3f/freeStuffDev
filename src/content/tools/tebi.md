@@ -3,11 +3,10 @@ title: Tebi
 link: https://tebi.io
 thumbnail : ""
 snippet: >-
-  Tebi.io is a progressive s3-compatible geographically distributed object
-  storage.
-tags: ["storage"]
+  Tebi.io 是一款先进的 S3 兼容分布式对象存储。
+tags: ["存储"]
 createdAt: 2023-08-18T00:00:00.000Z
 ---
-50 GB total storage
-250 GB of outbound transfer
-Unlimited uploads
+50GB 总存储
+250GB 出站流量
+不限上传

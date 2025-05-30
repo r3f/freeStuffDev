@@ -1,12 +1,12 @@
 ---
-title: Autocompress - Image optimization for Bitbucket
+title: Autocompress - Bitbucket 图像优化
 link: https://a-compress.co
 thumbnail: >-
   https://a-compress.co/icons/icon-512x512.png?v=8f4a62f6f6f19202cba30f0d75bf66bc
-snippet: Optimizes the images in your Bitbucket repositories
-tags: ["image-optimizer"]
+snippet: 优化 Bitbucket 存储库中的图像
+tags: ["图像优化器"]
 createdAt: 2023-03-28T00:00:00.000Z
 ---
-Unlimited for public repos.
-14-day trial for private repos
-(enough to compress all your images)
+公共存储库无限制。
+私有存储库 14 天试用
+（足以压缩所有图像）

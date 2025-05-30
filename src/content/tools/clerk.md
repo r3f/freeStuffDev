@@ -4,11 +4,10 @@ title: Clerk
 link: https://clerk.com
 thumbnail: https://clerk.com/favicon/apple-touch-icon.png
 snippet: >-
-  The easiest way to add authentication and user management to your application.
-  Purpose-built for React, Next.js, and the modern web.
-tags: ["authentication", "user-management"]
+  向您的应用程序添加身份验证和用户管理的最简单方法。专为 React、Next.js 和现代 Web 构建。
+tags: ["身份验证", "用户管理"]
 ---
-No credit card required
-10,000 monthly active users
-Pre-built components
-Custom Domain
+无需信用卡
+每月 10,000 名活跃用户
+预构建组件
+自定义域名

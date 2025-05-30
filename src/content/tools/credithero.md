@@ -4,7 +4,6 @@ title: CreditHero
 link: https://credithero.io/
 thumbnail: https://credithero.io/assets/favicon/favicon.ico
 snippet: >-
-  Running out of credits? Extend your AWS free credits. Get up to $2000 / month
-  extra thanks to CreditHero magic 
+  信用额度用完了？延长您的 AWS 免费信用额度。借助 CreditHero 的魔力，每月可额外获得高达 2000 美元的信用额度
 tags: ["aws"]
 ---

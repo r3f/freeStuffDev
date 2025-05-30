@@ -5,8 +5,7 @@ link: https://simplenote.com/
 thumbnail: >-
   https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/Simplenote_logo.svg/1200px-Simplenote_logo.svg.png
 snippet: >-
-  The simplest way to keep notes. Light, clean, and free. Simplenote is now
-  available for iOS, Android, Mac, and the web.
-tags: ["note-taking"]
+  最简单的笔记方式。轻巧、简洁、免费。Simplenote 现已适用于 iOS、Android、Mac 和 Web。
+tags: ["笔记"]
 ---
-Apps, backups, syncing, sharing – it’s all completely free.
+应用程序、备份、同步、共享——所有这些都是完全免费的。

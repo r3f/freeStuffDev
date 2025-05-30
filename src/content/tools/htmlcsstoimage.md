@@ -4,8 +4,7 @@ title: HTML/CSS to Image
 link: https://htmlcsstoimage.com/
 thumbnail: https://htmlcsstoimage.com/apple-icon-180x180.png
 snippet: >-
-  Convert HTML to an image (jpg, png, webp). Renders images exactly like Google
-  Chrome. Works with PHP, JavaScript, Ruby, .NET and more.
-tags: ["browser-screenshot"]
+  将 HTML 转换为图像（jpg、png、webp）。像 Google Chrome 一样精确呈现图像。适用于 PHP、JavaScript、Ruby、.NET 等。
+tags: ["浏览器截图"]
 ---
-50 images per month
+每月 50 张图片

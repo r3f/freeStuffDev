@@ -4,11 +4,10 @@ title: Fly
 link: https://fly.io/
 thumbnail: https://fly.io/ui/images/favicon/apple-touch-icon.png
 snippet: >-
-  Deploy App Servers close to Your Users. Make your applications 80% faster by
-  running on physical servers in cities where your users are.
-tags: ["database", "server"]
+  将应用服务器部署到离用户更近的地方。通过在用户所在城市的物理服务器上运行，使您的应用程序速度提高80%。
+tags: ["数据库", "服务器"]
 ---
-VM: shared-cpu (2,340 hours per month)
-Bandwith: 160GB per month
-Anycast IPS: Unlimited IPv6, 1 IPv4 per active app
-10 active certificates
+虚拟机：共享CPU（每月2340小时）
+带宽：每月160GB
+Anycast IPS：无限IPv6，每个活动应用1个IPv4
+10个活动证书

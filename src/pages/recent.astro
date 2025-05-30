@@ -1,23 +1,23 @@
 ---
-import { getCollection } from 'astro:content'
-import Card from '../components/Card.astro'
-import Header from '../components/Header.astro'
-import Layout from '../layouts/Layout.astro'
+import { getCollection } from 'astro:content' // 导入 'astro:content' 中的 getCollection 函数
+import Card from '../components/Card.astro' // 导入 Card 组件
+import Header from '../components/Header.astro' // 导入 Header 组件
+import Layout from '../layouts/Layout.astro' // 导入 Layout 组件
 
-// Get all tools collection, not isPaid
+// 获取所有工具集合，排除 isPaid 为 true 的项
 const tools = await getCollection('tools', ({data}) => {
 	return data.isPaid !== true
 })
 
-// Sort by newest with typescript
+// 使用 TypeScript 按最新日期排序
 tools.sort((a, b) => {
 	const dateA = new Date(a.data.createdAt) as any
 	const dateB = new Date(b.data.createdAt) as any
 	return dateB - dateA
 })
 
-const title="New Free tools and services for Developer"
-const description="New List of free stuff for developer by developer to use. This is a collective list of useful services for developer you can use for your next MVP or prototpying your idea."
+const title="为开发者提供的最新免费工具和服务" // 标题
+const description="由开发者为开发者提供的最新免费工具和服务列表。这是一个有用的开发者服务集合，可用于您的下一个 MVP 或原型设计。" // 描述
 
 ---
 
@@ -31,13 +31,13 @@ const description="New List of free stuff for developer by developer to use. Thi
 		description={description}
 		/>
 
-	<!-- checkbox sort by newest or random -->
+	<!-- 复选框 按最新或随机排序 -->
 	<div class="flex justify-end items-center">
-		<label for="sort" class="text-sm">Sort by:</label>
-		<select id="sort" 
+		<label for="sort" class="text-sm">排序方式：</label>
+		<select id="sort"
 			class="bg-gray-800 text-white text-sm rounded-md ml-2 border border-white p-2">
-			<option value="newest">Newest</option>
-			<option value="random" >Random</option>
+			<option value="newest">最新</option>
+			<option value="random" >随机</option>
 		</select>
 
 		<script>
@@ -63,3 +63,4 @@ const description="New List of free stuff for developer by developer to use. Thi
 	</div>
 
 </Layout>
+

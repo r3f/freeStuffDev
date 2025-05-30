@@ -1,11 +1,10 @@
 ---
-title: Free Stock Video & Footage Clips.
+title: 免费库存视频和素材片段。
 link: https://free-stock.video
 thumbnail: https://free-stock.video/291713-32.png
 snippet: >-
-  Beautiful Video & Footage Clips., for free ✅ For commercial and personal use.✓
-  No copyright required
-tags: ["asset", " video"]
+  精美的视频和素材片段，免费✅ 商业和个人用途均可。✓ 无需版权
+tags: ["资产", "视频"]
 createdAt: 2023-05-16T00:00:00.000Z
 ---
-Free Stock Video & Footage Clips.
+免费库存视频和素材片段。

@@ -1,11 +1,9 @@
 ---
-title: German Net Salary Calculator
+title: 德国税后工资计算器
 link: https://lohntastik.de/gns/gross-net-salary-calculator
 thumbnail: https://lohntastik.de/static/img/siteicon/favicon-32x32.png
 snippet: >-
-  The income tax or gross net salary calculator and the charts provide a
-  thorough picture of your net salary in Germany after taxes and social
-  contributions.
-tags: ["tax-calculator", "gross-net-salary-calculator"]
+  德国个人所得税/税后工资计算器及图表，全面展示税后收入。
+tags: ["税务计算器", "税后工资计算器"]
 createdAt: 2022-04-26T00:00:00.000Z
 ---

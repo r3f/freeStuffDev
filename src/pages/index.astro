@@ -5,16 +5,16 @@ import Card from '../components/Card.astro'
 import Header from '../components/Header.astro'
 import Sponsors from '../components/Sponsors.astro'
 
-// Get all tools collection, not isPaid
+// 获取所有工具集合，非付费
 const tools = await getCollection('tools', ({data}) => {
 	return data.isPaid !== true
 })
 
-// Randomize the list
+// 随机化列表
 tools.sort(() => Math.random() - 0.5)
 
-const title="Free tools and services for Developer"
-const description="List of free stuff for developer by developer to use. This is a collective list of useful services for developer you can use for your next MVP or prototpying your idea."
+const title="免费的开发者工具和服务"
+const description="由开发者为开发者提供的免费工具列表。这是一个有用的服务集合，可用于您的下一个 MVP 或原型设计。"
 
 ---
 
@@ -30,7 +30,7 @@ const description="List of free stuff for developer by developer to use. This is
 
 	<Sponsors />
 
-	<p class="text-xl mb-3">Free Dev Tools 👇🏼</p>
+	<p class="text-xl mb-3">免费开发工具 👇🏼</p>
 	
 
 	<div class="flex justify-between items-center space-x-5">
@@ -38,17 +38,17 @@ const description="List of free stuff for developer by developer to use. This is
 			<input 
 				class="bg-gray-700 text-white text-sm rounded-md w-full border border-white p-2"
 				type="text"
-				placeholder="search anything here..."
+				placeholder="在此搜索任何内容..."
 				id="searchbox">
 		</div>
 
 			
 		<div class="flex justify-end items-center w-[200px]">
-			<label for="sort" class="text-sm">Sort by:</label>
+			<label for="sort" class="text-sm">排序方式：</label>
 			<select id="sort" 
 				class="bg-gray-800 text-white text-sm rounded-md ml-2 border border-white p-2">
-				<option value="random">Random</option>
-				<option value="newest">Newest</option>
+				<option value="random">随机</option>
+				<option value="newest">最新</option>
 			</select>
 
 			<script>
@@ -74,13 +74,13 @@ const description="List of free stuff for developer by developer to use. This is
 		}
 	</div>
 
-	<!-- Important: position is after cards -->
+	<!-- 重要提示：位置在卡片之后 -->
 	<script is:inline>
 		function initSearch() {
 			const cards = document.querySelectorAll('.cards')
-			// A little delay
+			// 稍作延迟
 			let typingTimer;        
-			let typeInterval = 500; // Half a second
+			let typeInterval = 500; // 半秒
 			let searchInput = document.getElementById('searchbox');
 
 			searchInput.addEventListener('keyup', () => {

@@ -4,10 +4,9 @@ title: Framer
 link: https://www.framer.com/
 thumbnail: https://www.framer.com/images/favicons/iOS/180.png
 snippet: >-
-  It’s interactive design made simple—no code required, browser-based, and free
-  for everyone. Realistic prototypes in half the time.
-tags: ["ui-design", " prototyping"]
+  交互式设计变得简单——无需代码，基于浏览器，人人免费。原型制作时间减半，效果逼真。
+tags: ["ui设计", "原型制作"]
 ---
-Unlimited viewers
-Up to 2 editors
-Up to 3 projects
+无限查看者
+最多2名编辑
+最多3个项目

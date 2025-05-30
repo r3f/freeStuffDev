@@ -3,10 +3,8 @@ title: AlephNote
 link: https://github.com/Mikescher/AlephNote
 thumbnail: https://github.githubassets.com/pinned-octocat.svg
 snippet: >-
-  Lightweight note taking client for Simplenote or Standard Notes (or simply
-  local storage) - GitHub - Mikescher/AlephNote: Lightweight note taking client
-  for Simplenote or Standard Notes (or simply local storage)
-tags: ["note-taking"]
+  适用于 Simplenote 或 Standard Notes（或仅本地存储）的轻量级笔记客户端 - GitHub - Mikescher/AlephNote：适用于 Simplenote 或 Standard Notes（或仅本地存储）的轻量级笔记客户端
+tags: ["笔记"]
 createdAt: 2023-01-10T00:00:00.000Z
 ---
-Free self-hosted
+免费自托管

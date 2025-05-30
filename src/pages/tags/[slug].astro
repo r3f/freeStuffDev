@@ -22,19 +22,19 @@ export async function getStaticPaths() {
 
 const tag = Astro.props.tag
 
-// Get all tools that has that tag
+// 获取所有包含该标签的工具
 const tools = await getCollection('tools', ({ data }) => {
     return data.tags.includes(tag.trim().toLowerCase())
 })
 
-const title = `Free ${tag} tools or service for developers`
-const description = `A collection of free ${tag} app, tools or service for developers`
+const title = `免费的 ${tag} 工具或服务，专为开发者打造 - AAFREE`
+const description = `为开发者收集的免费 ${tag} 应用、工具或服务`
 ---
 
 <Layout
-	title={title}
-	description={description}
-	>
+    title={title}
+    description={description}
+    >
     
     <Header
         title={title}

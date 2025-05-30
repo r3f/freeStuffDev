@@ -2,9 +2,9 @@
 title: "Stack Auth"
 link: "https://stack-auth.com/"
 thumbnail: "https://pbs.twimg.com/profile_images/1818407678009544704/VTaJakto_400x400.png"
-snippet: "Stack Auth is open-source authentication for the modern web."
-tags: ["user-management"," authentication"]
+snippet: "Stack Auth 是适用于现代 Web 的开源身份验证。"
+tags: ["用户管理","身份验证"]
 createdAt: 2024-09-05T22:14:38.439Z
 ---
-Self hosting is always free
-Cloud: 10K Monthly active users
+自托管始终免费
+云：1 万月活跃用户

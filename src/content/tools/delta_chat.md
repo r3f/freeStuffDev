@@ -3,9 +3,8 @@ title: Delta Chat
 link: https://delta.chat/en/
 thumbnail: https://delta.chat/assets/logos/delta-chat.svg
 snippet: >-
-  Delta Chat is a messaging app that works over e-mail 🗨️ Message anyone with
-  an e-mail address even if they don’t use Delta Chat.
-tags: ["chat"]
+  Delta Chat 是一款通过电子邮件工作的消息应用程序 🗨️ 即使他们不使用 Delta Chat，也可以向任何拥有电子邮件地址的人发送消息。
+tags: ["聊天"]
 createdAt: 2022-11-28T00:00:00.000Z
 ---
-Free self-hosted
+免费自托管

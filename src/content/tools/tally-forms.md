@@ -3,10 +3,8 @@ title: Tally forms
 link: https://tally.so/
 thumbnail: https://tally.so/favicon.ico
 snippet: >-
-  The simplest way to create beautiful forms & surveys, for free. Without
-  knowing how to code!
-tags: ["form"]
+  最简单的免费表单与问卷创建工具，无需编程即可生成美观表单！
+tags: ["表单"]
 createdAt: 2021-07-30T00:00:00.000Z
 ---
-99% features are available to solo user
-for free and without limits.
+99% 功能对个人用户永久免费，无限制。

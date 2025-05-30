@@ -3,10 +3,10 @@ title: Atom
 link: https://atom.io/
 thumbnail: https://github.githubassets.com/favicon.ico
 snippet: >-
-  At GitHub, we’re building the text editor we’ve always wanted: hackable to the
-  core, but approachable on the first day without ever touching a config file.
-  We can’t wait to see what you build with it.
-tags: ["text-editor"]
+  在 GitHub，我们正在构建我们一直想要的文本编辑器：核心可破解，
+  但在第一天就可以使用，而无需接触配置文件。
+  我们迫不及待地想看看您用它构建出什么。
+tags: ["文本编辑器"]
 createdAt: 2021-06-21T00:00:00.000Z
 ---
-Open Source
+开源

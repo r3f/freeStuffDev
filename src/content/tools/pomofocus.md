@@ -4,8 +4,6 @@ title: Pomofocus
 link: https://pomofocus.io/
 thumbnail: https://ph-files.imgix.net/eef3af08-be75-4d25-b752-8f88cf177457.png
 snippet: >-
-  A simple Pomodoro Timer app that works on a desktop & mobile browser.
-  Pomofucus will help you manage your time and let you focus on any tasks such
-  as study, writing, or coding.
-tags: ["productivity", "pomodoro"]
+  一个简单的番茄工作法计时器应用程序，可在桌面和移动浏览器上运行。Pomofocus 将帮助您管理时间，让您专注于学习、写作或编码等任何任务。
+tags: ["生产力", "番茄工作法"]
 ---

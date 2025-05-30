@@ -3,13 +3,10 @@ title: Bitwarden
 link: https://bitwarden.com/
 thumbnail: https://pbs.twimg.com/profile_images/1251939728678481920/Wkb7Syl9_400x400.jpg
 snippet: >-
-  Bitwarden, the open source password manager, makes it easy to generate and
-  store unique passwords for any browser or device. Create your free account on
-  the platform with end-to-end encryption and flexible integration options for
-  you or your business.
-tags: ["password-manager"]
+  Bitwarden 是一款开源密码管理器，可让您轻松为任何浏览器或设备生成和存储唯一密码。在具有端到端加密和灵活集成选项的平台上创建您的免费帐户，供您个人或企业使用。
+tags: ["密码管理器"]
 createdAt: 2021-06-28T00:00:00.000Z
 ---
-Unlimited devices
-Passkey management
-All the core functions
+无限设备
+密钥管理
+所有核心功能

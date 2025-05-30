@@ -4,7 +4,6 @@ title: Webmention.io
 link: https://webmention.io/
 thumbnail: https://webmention.io/img/webmention-logo-380.png
 snippet: >-
-  Webmention.io is a hosted service created to easily receive webmentions on any
-  web page.
-tags: ["comment", " webmention"]
+  Webmention.io 是一个托管服务，可让你轻松在任意网页接收 webmention。
+tags: ["评论", "webmention"]
 ---

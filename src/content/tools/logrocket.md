@@ -2,11 +2,11 @@
 title: LogRocket
 link: https://logrocket.com/
 thumbnail: https://pbs.twimg.com/profile_images/1326191211850440708/uQc_hHbU_400x400.jpg
-snippet: >-
-  LogRocket helps you understand problems affecting your users, so that you can
-  get back to building great software.
-tags: ["monitoring", " logging"]
-createdAt: 2022-07-13T00:00:00.000Z
+snippet: LogRocket 帮助您了解影响用户的问题，以便您能重新专注于构建出色的软件。
+tags:
+- monitoring
+- logging
+createdAt: 2022-07-13 00:00:00+00:00
 ---
-Includes 1,000 sessions / month
-1-month data retention
+每月包含 1,000 次会话
+1个月数据保留期
